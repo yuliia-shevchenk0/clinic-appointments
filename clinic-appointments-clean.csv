@@ -1,0 +1,1001 @@
+,patient_id,patient_name,age,age_group,gender,appointment_date,booking_date,waiting_days,doctor,department,billing_usd,follow_up_required
+0,1000,Aaron Clay,87,Senior,M,2025-10-31,2025-05-22,162,Timothy Barker,Cardiology,366.0696,1
+1,1001,Aaron Holder,19,Young adult,M,2026-01-26,2024-11-28,424,Lauren Ayers,General,3.7738,1
+2,1002,Aaron Young,60,Middle age,M,2026-01-26,2024-05-09,627,Wendy Cochran,Cardiology,2.2233,1
+3,1003,Abigail Holt,50,Adult,F,2025-09-11,2025-03-14,181,Jacob Mays,Neurology,343.79,1
+4,1004,Abigail Townsend,54,Middle age,F,2025-12-10,2025-03-08,277,Allison Salazar,Orthopedics,406.61,1
+5,1005,Abigail Warner,53,Middle age,F,2025-10-25,2024-05-23,520,Heather Stokes,Orthopedics,489.37589999999994,1
+6,1006,Adam Lane,76,Senior,F,2026-03-21,2024-09-20,547,Lynn Dorsey,Neurology,122.03099999999999,1
+7,1007,Adam Mcdonald,28,Young adult,F,2025-08-15,2024-11-17,271,David Schmidt,Cardiology,235.629,1
+8,1008,Adam Sanders,63,Middle age,M,2025-08-08,2025-05-24,76,Patrick Floyd,General,466.97,1
+9,1009,Adam Shelton,83,Senior,M,2025-06-26,2025-06-12,14,Mary Thompson,Neurology,225.1,1
+10,1010,Adam Torres,58,Middle age,M,2025-07-03,2024-08-25,312,Daniel Le,Neurology,3.2925,0
+11,1011,Adrian Vincent,42,Adult,X,2025-09-21,2024-12-05,290,William Coleman MD,Orthopedics,475.2135,0
+12,1012,Alejandra Perkins,72,Senior,X,2025-08-03,2025-04-11,114,Daniel Dickerson,Orthopedics,242.42107661290325,1
+13,1013,Alejandra Turner,31,Young adult,F,2025-05-31,2025-05-24,7,Bradley Jones,Cardiology,228.09149999999997,1
+14,1014,Alejandro Lopez,85,Senior,M,2025-06-15,2024-07-03,347,Brian Bowman,Neurology,422.7444,0
+15,1015,Alejandro Romero,27,Young adult,M,2025-07-25,2024-08-28,331,Karen Hancock,Orthopedics,279.0315,0
+16,1016,Alex Burns,68,Middle age,M,2026-01-10,2025-09-11,121,Raymond Bond,Cardiology,339.9084,0
+17,1017,Alex Rowe,34,Young adult,M,2025-11-28,2025-06-15,166,Derek Doyle,Cardiology,1.148,0
+18,1018,Alex Webster,34,Young adult,M,2026-02-11,2024-12-24,414,Lorraine Schroeder,Orthopedics,164.80620000000002,1
+19,1019,Alexa Landry,24,Young adult,M,2025-09-16,2025-01-16,243,Larry Delgado,Orthopedics,73.59,1
+20,1020,Alexander Hammond,41,Adult,M,2025-06-29,2024-09-21,281,Tara Moore,Cardiology,335.4507,0
+21,1021,Alexander Harris,22,Young adult,F,2025-10-30,2024-12-29,305,Jim Jones,Cardiology,115.83,0
+22,1022,Alexander Jones,85,Senior,F,2025-12-09,2025-01-30,313,Mary Ward,General,4.9826,1
+23,1023,Alexander Le,77,Senior,F,2026-01-20,2024-04-04,656,Cynthia Booker,Neurology,340.497,1
+24,1024,Alexander Rios,43,Adult,F,2025-05-18,2024-07-22,300,Bryan Parker,Orthopedics,357.0723,0
+25,1025,Alexander Vega,35,Young adult,M,2025-08-17,2025-08-06,11,Karen Gomez,Neurology,270.15,1
+26,1026,Alexander Williams,85,Senior,F,2026-03-20,2025-10-08,163,Erin Chandler,Orthopedics,0.8556,0
+27,1027,Alexandra Sandoval,31,Young adult,M,2025-11-21,2025-08-16,97,Rachel Moore,Neurology,1.9894999999999998,0
+28,1028,Alexis Moody,81,Senior,F,2025-05-29,2024-06-11,352,Jennifer Reyes,Orthopedics,2.0180000000000002,1
+29,1029,Alicia Davis,19,Young adult,M,2025-03-31,2024-10-27,155,John Gonzalez,Cardiology,347.13899999999995,0
+30,1030,Alicia Scott,39,Adult,M,2025-11-22,2024-11-14,373,William Cochran,Neurology,243.15,0
+31,1031,Alison Robinson,83,Senior,M,2025-09-15,2024-12-23,266,Jose Thomas,Orthopedics,237.06,0
+32,1032,Alison Wolfe,29,Young adult,M,2025-05-30,2024-03-26,430,Michelle Thomas,General,481.22,1
+33,1033,Allison Mcgrath,60,Middle age,M,2025-06-22,2024-04-26,422,Morgan Mccoy,Cardiology,1.256,0
+34,1034,Allison Ramos,75,Senior,F,2025-12-28,2024-12-16,377,Chase Ford,Neurology,482.2,1
+35,1035,Alyssa Lucas,47,Adult,F,2026-01-06,2024-10-11,452,Daniel Ryan,Neurology,400.52,1
+36,1036,Amanda Douglas,90,Senior,M,2026-03-07,2024-06-25,620,Gregory Gonzalez,General,239.6478689497717,0
+37,1037,Amanda Fuller,56,Middle age,M,2026-02-18,2024-12-08,437,Anthony Cruz,Orthopedics,347.68,1
+38,1038,Amanda Johnston,46,Adult,F,2025-04-16,2024-10-24,174,Angela Burton,Cardiology,214.98587589285714,0
+39,1039,Amanda Jones,61,Middle age,M,2025-11-19,2024-04-28,570,Christopher Morris,General,584.7075,1
+40,1040,Amanda Martinez,27,Young adult,F,2025-08-23,2024-11-12,284,Gary Bowman,General,165.8,1
+41,1041,Amanda Schroeder,79,Senior,M,2025-11-30,2024-08-05,482,Deanna Edwards,Neurology,237.90779999999998,1
+42,1042,Amanda Stevenson,26,Young adult,M,2026-01-17,2024-06-28,568,Tyler Cunningham,General,185.92469999999997,0
+43,1043,Amber Trevino,86,Senior,F,2025-05-28,2024-07-10,322,Sarah Holder,Cardiology,214.98587589285714,1
+44,1044,Amy Baird,51,Middle age,M,2025-11-01,2025-09-28,34,Diana Jones,Neurology,353.91600000000005,1
+45,1045,Amy Cruz,43,Adult,M,2025-12-14,2025-02-28,289,Tony Burke,Neurology,536.7843,1
+46,1046,Amy King,49,Adult,F,2025-09-15,2025-01-30,228,Peter Wells,General,325.998,1
+47,1047,Amy Mayer,26,Young adult,F,2025-09-28,2024-07-08,447,Jim Patterson,Cardiology,296.478,1
+48,1048,Amy Pierce,83,Senior,F,2025-07-27,2025-03-28,121,Ian Castillo,Orthopedics,318.44,0
+49,1049,Amy Wilson,81,Senior,M,2025-09-26,2025-02-01,237,Nathan Mathews,Orthopedics,242.42107661290325,0
+50,1050,Amy Wood,43,Adult,F,2025-06-22,2025-01-25,148,John Shannon,Neurology,299.1339,0
+51,1051,Andre Crosby,72,Senior,F,2026-02-16,2024-07-07,589,Douglas Smith,General,235.81,0
+52,1052,Andre Pitts,60,Middle age,F,2026-01-26,2024-09-30,483,Donna Sandoval,General,563.2379999999999,1
+53,1053,Andrea Anderson,75,Senior,M,2025-08-15,2024-06-16,425,Mary Burgess,Neurology,59.55,1
+54,1054,Andrea Hubbard,36,Adult,F,2026-03-12,2025-11-08,124,Andrea Gates,Cardiology,91.13850000000001,0
+55,1055,Andrea Mcbride,64,Middle age,F,2025-09-15,2025-01-19,239,Laura Newman,Neurology,151.578,0
+56,1056,Andrea Mendez,33,Young adult,M,2025-07-02,2024-08-14,322,Joshua Reed,General,233.98,0
+57,1057,Andrea Murray,46,Adult,M,2026-03-12,2025-08-11,213,Alexa Martin,Neurology,4.3555,0
+58,1058,Andres Mills,54,Middle age,M,2025-06-23,2024-08-24,303,Paul Weaver,Neurology,521.8155,0
+59,1059,Andrew Baker,27,Young adult,F,2025-05-04,2024-07-11,297,Michael Gillespie,General,486.57,1
+60,1060,Andrew Cross,67,Middle age,F,2026-03-26,2026-03-07,19,Victor Warner,General,2.8144,0
+61,1061,Andrew Oconnor,66,Middle age,F,2025-11-11,2024-12-01,345,Christina Hill,Cardiology,153.07,1
+62,1062,Angel Kelly,82,Senior,F,2025-12-15,2025-07-21,147,Stephanie Taylor,General,4.2686,0
+63,1063,Angela Davis,87,Senior,F,2026-01-22,2024-11-03,445,Danielle Meyer,Orthopedics,82.026,0
+64,1064,Angela Rogers,18,,M,2025-08-14,2025-04-10,126,Dr. Brian Smith,Orthopedics,3.6208,0
+65,1065,Angela Smith,51,Middle age,M,2025-09-02,2025-08-15,18,Nicholas Jones,Orthopedics,309.744,0
+66,1066,Angela Watkins,34,Young adult,F,2025-12-25,2024-09-12,469,Kyle Russell,Cardiology,147.5685,0
+67,1067,Anna Garrett,24,Young adult,F,2025-05-30,2025-03-20,71,Alice Lucas,Neurology,462.03299999999996,1
+68,1068,Anna Rowe,59,Middle age,F,2026-02-26,2024-08-25,550,Judith Preston,Neurology,97.82369999999999,0
+69,1069,Anne Jacobs,31,Young adult,M,2026-03-04,2026-01-28,35,Lauren Clark,Orthopedics,468.963,1
+70,1070,Anne Jones DVM,48,Adult,F,2026-01-05,2025-05-30,220,Linda French,General,296.43,1
+71,1071,Anthony Boyd,27,Young adult,F,2026-02-20,2025-07-06,229,Bradley Gibson,General,234.69750000000002,1
+72,1072,Anthony Cortez,57,Middle age,M,2025-05-25,2025-03-28,58,Derrick Cook,General,225.83,1
+73,1073,Anthony Martin,54,Middle age,F,2025-06-18,2024-11-06,224,Alex Richards,Neurology,1.1963,0
+74,1074,Anthony Mcpherson,47,Adult,F,2025-05-18,2024-09-09,251,Karen Parsons,General,0.8576,0
+75,1075,Anthony Medina,60,Middle age,F,2025-03-28,2024-11-14,134,Richard Walker,Orthopedics,498.48,1
+76,1076,Anthony Mitchell,37,Adult,F,2025-10-09,2025-04-05,187,Theresa Osborne,Neurology,434.6433,0
+77,1077,Anthony Nash,32,Young adult,M,2025-05-13,2024-08-21,265,Brianna Shea,Cardiology,3.92,1
+78,1078,April Braun,57,Middle age,F,2025-04-29,2024-04-16,378,Jacob Mendoza,Neurology,1.1047,1
+79,1079,April Rios,30,Young adult,F,2026-02-26,2026-02-07,19,Megan Mccann,General,551.4209999999999,0
+80,1080,Ariel Davis,85,Senior,M,2025-10-25,2025-02-21,246,Jason Gallagher,Orthopedics,0.8563,1
+81,1081,Ashlee Warren,69,Middle age,M,2026-01-21,2024-06-01,599,Cynthia Cruz,General,2.8974,1
+82,1082,Ashley Black,84,Senior,F,2025-05-29,2025-01-29,120,Dennis Murphy,Neurology,241.51399845559845,0
+83,1083,Ashley Cunningham,32,Young adult,F,2026-01-22,2024-11-29,419,Sarah Montgomery,Cardiology,1.6005000000000003,1
+84,1084,Ashley Daniels,50,Adult,F,2025-08-25,2024-06-18,433,Robert Davies,Neurology,63.38,1
+85,1085,Ashley Estes,54,Middle age,M,2025-06-02,2024-07-31,306,Stephanie Mercer,Cardiology,546.9525,1
+86,1086,Ashley Foster,32,Young adult,F,2026-02-23,2025-01-14,405,Melinda Cannon,General,281.772,1
+87,1087,Ashley Martinez,68,Middle age,X,2025-05-07,2024-10-18,201,Spencer Torres,Orthopedics,296.8,0
+88,1088,Ashley Peterson,39,Adult,F,2025-05-30,2025-05-06,24,Kyle Mcintyre,General,483.9075,1
+89,1089,Ashley Rodriguez,52,Middle age,F,2025-06-05,2024-11-06,211,Russell Zimmerman,Orthopedics,2.1997,0
+90,1090,Ashley Wright,45,Adult,F,2026-02-26,2025-06-03,268,Kristen Lopez,General,471.7674,1
+91,1091,Audrey Irwin,55,Middle age,F,2025-11-22,2024-09-09,439,Michael Murphy,Orthopedics,112.46039999999999,0
+92,1092,Autumn Griffin,55,Middle age,F,2025-09-21,2024-06-18,460,Isabel Harris,Orthopedics,202.41,0
+93,1093,Bailey Williamson,88,Senior,F,2025-10-17,2025-05-24,146,George Singleton,Cardiology,368.53,0
+94,1094,Barbara Dalton,29,Young adult,M,2025-04-07,2024-06-02,309,Rachel Holloway,Cardiology,306.94,1
+95,1095,Barbara Drake,20,Young adult,M,2025-08-26,2025-01-09,229,Julie Jacobs,Cardiology,334.5849,0
+96,1096,Barbara Holland,24,Young adult,M,2026-01-30,2024-12-16,410,Chelsea Aguirre,General,514.2851999999999,0
+97,1097,Barbara Johnston,46,Adult,F,2025-07-29,2025-01-12,198,April Hood,Cardiology,1.6018000000000001,1
+98,1098,Benjamin Allen,20,Young adult,F,2025-11-22,2025-04-06,230,Richard Johnson,Cardiology,300.8889,0
+99,1099,Benjamin Brown,45,Adult,X,2026-03-07,2024-08-17,567,Andrea Hernandez,General,84.44,1
+100,1100,Benjamin Hughes,32,Young adult,F,2026-03-02,2025-12-17,75,Nicholas Mcneil,Cardiology,169.16850000000002,1
+101,1101,Benjamin Jenkins,86,Senior,M,2025-07-23,2025-04-22,92,Michael Bond,General,302.0004,0
+102,1102,Benjamin Lewis,85,Senior,M,2026-01-09,2025-05-03,251,Taylor Hicks,Cardiology,249.40889999999996,0
+103,1103,Benjamin Ramirez,57,Middle age,F,2025-12-22,2025-01-06,350,Wesley Johnson,Neurology,142.33,0
+104,1104,Beth Murphy,71,Senior,F,2025-06-30,2024-08-13,321,Adam Davis,Orthopedics,446.4585,1
+105,1105,Beth Stephens,24,Young adult,F,2025-12-02,2025-04-13,233,Scott Nguyen,General,2.4663,0
+106,1106,Bethany Williams,21,Young adult,M,2025-11-12,2025-04-22,204,Kayla Woods,Neurology,60.114599999999996,0
+107,1107,Bonnie Boone,35,Young adult,F,2025-11-24,2024-11-05,384,Lorraine Figueroa,Orthopedics,133.9065,1
+108,1108,Brad Hill,87,Senior,M,2025-10-22,2025-02-28,236,Emily Joseph,Cardiology,107.82719999999999,1
+109,1109,Brad West,34,Young adult,F,2025-05-14,2024-05-19,360,Samuel Stone,Cardiology,614.3175000000001,0
+110,1110,Bradley Fuller,83,Senior,M,2025-05-13,2025-02-28,74,John Yang,General,0.6997,1
+111,1111,Bradley Jones,61,Middle age,X,2025-07-14,2024-12-22,204,Douglas Patton,Cardiology,2.5741000000000005,1
+112,1112,Bradley Leach,25,Young adult,F,2025-11-13,2024-12-13,335,Amanda Flores,General,99.53189999999998,1
+113,1113,Bradley Myers,63,Middle age,M,2025-11-09,2024-12-08,336,Mark Barrett,Neurology,4.2651,1
+114,1114,Brandi Boyd,90,Senior,M,2025-12-08,2024-08-06,489,Mary Jacobson,Cardiology,0.9620000000000001,0
+115,1115,Brandi Osborn,42,Adult,F,2026-02-01,2025-12-31,32,Daisy Rodriguez,Neurology,99.85950000000001,0
+116,1116,Brandon Baker,54,Middle age,M,2025-08-12,2025-07-25,18,Alison Walters,General,143.5455,1
+117,1117,Brandon Carter,72,Senior,F,2025-05-10,2025-02-27,72,James Aguilar,Neurology,295.029,0
+118,1118,Brandon Martin,87,Senior,F,2026-02-06,2024-08-11,544,John Miller,Neurology,446.44,1
+119,1119,Brandon Sanders,27,Young adult,M,2026-01-09,2025-03-16,299,Amy Dunlap,Orthopedics,433.1925,0
+120,1120,Brandy Estes MD,64,Middle age,M,2025-10-26,2024-05-15,529,Andrea Lam,Neurology,322.09650000000005,1
+121,1121,Brandy Navarro,27,Young adult,F,2025-07-16,2025-06-13,33,Matthew Nichols,Orthopedics,2.8843,1
+122,1122,Breanna Lewis,59,Middle age,F,2025-10-12,2025-06-15,119,Jerry Tucker,Orthopedics,210.573,1
+123,1123,Brenda Ward,43,Adult,F,2025-11-26,2025-08-25,93,Tonya Smith,Neurology,4.2567,1
+124,1124,Brent Thompson,33,Young adult,F,2025-05-03,2024-11-23,161,Pamela Cunningham,Orthopedics,236.97179999999997,0
+125,1125,Brian Bolton,78,Senior,M,2025-08-18,2024-05-26,449,Natalie Patrick,Neurology,220.83300000000003,0
+126,1126,Brian Clarke,73,Senior,M,2025-04-05,2024-12-20,106,Amanda Hoffman,Neurology,348.18,0
+127,1127,Brian Davis,72,Senior,F,2025-12-26,2024-08-05,508,Michelle Smith,Neurology,649.0125,1
+128,1128,Brian Davis,41,Adult,F,2026-02-07,2025-05-27,256,Brian Mitchell,Orthopedics,0.6362,1
+129,1129,Brian Garrett,65,Middle age,F,2026-01-24,2026-01-04,20,Tamara Williams,Cardiology,246.73950000000002,0
+130,1130,Brian Griffith,20,Young adult,M,2025-06-15,2025-04-11,65,Robert Stanley,Cardiology,389.124,1
+131,1131,Brian Jones,23,Young adult,F,2026-02-06,2025-03-09,334,Robert Navarro,Orthopedics,191.8683,1
+132,1132,Brian Patel,33,Young adult,X,2025-10-16,2024-09-13,398,Tracy Harris,Orthopedics,145.88729999999998,0
+133,1133,Brian Riley,74,Senior,M,2025-08-23,2024-09-24,333,Charles Kemp,Cardiology,153.44,0
+134,1134,Brian White,80,Senior,M,2025-08-03,2025-04-03,122,Rachel Howell,Neurology,453.4686,1
+135,1135,Briana Guerrero,33,Young adult,F,2026-01-19,2024-03-30,660,Molly Warner,General,311.958,1
+136,1136,Brianna Mcpherson,90,Senior,M,2025-05-13,2024-06-17,330,Nathaniel Thompson,General,147.9735,1
+137,1137,Brianna Morris,73,Senior,M,2025-11-03,2024-04-26,556,Gregory West DDS,Orthopedics,494.66429999999997,1
+138,1138,Bridget Cooley,75,Senior,F,2026-02-22,2025-02-25,362,Ashley Edwards,General,195.453,1
+139,1139,Brittany Thompson,31,Young adult,F,2025-04-05,2024-05-08,332,Wendy Davis,Cardiology,2.571,0
+140,1140,Brittany Wall,37,Adult,M,2026-02-28,2024-04-18,681,Willie Dean,General,0.772,0
+141,1141,Brittney Gonzales,38,Adult,X,2025-12-20,2025-08-14,128,Kimberly Caldwell,Orthopedics,3.4787,1
+142,1142,Bryan Armstrong,68,Middle age,M,2025-04-22,2025-04-03,19,Robert Escobar,Neurology,3.0501,0
+143,1143,Bryan Fritz,86,Senior,F,2025-08-03,2025-02-19,165,Kelsey Hernandez,Orthopedics,338.43,1
+144,1144,Bryan Meyers,84,Senior,F,2026-01-05,2025-07-11,178,Michael Trevino,Cardiology,4.9936,0
+145,1145,Cameron Lopez,44,Adult,F,2025-04-27,2024-12-13,135,Christopher Williams,Orthopedics,163.0,1
+146,1146,Carl Sanchez,87,Senior,F,2025-04-06,2024-08-02,247,Christina Price,Orthopedics,446.06,0
+147,1147,Carly Dixon,30,Young adult,M,2025-05-29,2025-01-26,123,Gary Murray,Orthopedics,125.8,0
+148,1148,Carly Ford,20,Young adult,F,2025-07-23,2025-06-22,31,Scott Tran,Neurology,161.7993,0
+149,1149,Carol Foster,61,Middle age,M,2025-10-19,2025-08-22,58,Bryan Mann,Neurology,455.56289999999996,0
+150,1150,Carol Williams,75,Senior,F,2025-04-15,2024-06-01,318,Joshua Gomez,Cardiology,129.1,1
+151,1151,Caroline Reed,54,Middle age,F,2025-07-29,2024-06-06,418,Eric Kelly,Neurology,4.3377,0
+152,1152,Carolyn Jacobson,47,Adult,F,2026-02-11,2025-02-14,362,Katrina Johnston,Cardiology,493.2495,0
+153,1153,Carrie Davis,50,Adult,X,2026-01-19,2024-04-01,658,Michael Jones,Neurology,3.9086000000000003,0
+154,1154,Cassandra Cain,64,Middle age,F,2026-01-24,2025-02-08,350,Jessica Williams,Cardiology,0.7959,0
+155,1155,Cassandra Collins,60,Middle age,M,2025-10-03,2025-08-26,38,Mark Lutz,General,285.2226,1
+156,1156,Cassandra Gardner,42,Adult,M,2025-10-14,2024-11-04,344,Gregory Kirk,Neurology,3.4238,0
+157,1157,Cassandra Peterson,34,Young adult,M,2025-04-23,2024-12-08,136,Mary Sanchez,Orthopedics,242.42107661290325,1
+158,1158,Catherine Stein,23,Young adult,F,2025-10-14,2025-02-08,248,Donald Jacobson,Neurology,497.124,1
+159,1159,Chad Reed,68,Middle age,M,2025-07-05,2025-01-23,163,Jennifer Adams,Neurology,611.6310000000001,0
+160,1160,Chad Tyler,89,Senior,F,2026-02-02,2025-01-08,390,Tiffany Sullivan,Neurology,573.1155,1
+161,1161,Charles Cruz,54,Middle age,F,2026-01-27,2024-09-01,513,Jessica Sawyer,Orthopedics,123.72750000000002,0
+162,1162,Charles Foley,56,Middle age,M,2025-09-19,2024-09-28,356,Richard Arias,Cardiology,526.9329,1
+163,1163,Charles Green,80,Senior,F,2025-04-28,2024-03-30,394,Lisa Hoffman,Neurology,408.9033,0
+164,1164,Chelsea Burns,62,Middle age,X,2025-12-29,2024-05-13,595,Michael Morales,Cardiology,1.936,1
+165,1165,Chelsea Matthews,68,Middle age,F,2025-12-07,2025-03-24,258,Elizabeth Obrien,Orthopedics,420.94259999999997,1
+166,1166,Chelsey Moore,34,Young adult,F,2025-10-12,2025-01-15,270,Randy Garrett,Cardiology,465.156,1
+167,1167,Cheryl Calderon,29,Young adult,F,2026-02-23,2024-04-04,690,Michael Adams,Orthopedics,0.5555,0
+168,1168,Cheryl Michael,49,Adult,M,2025-08-06,2025-03-23,136,Thomas Bennett,Neurology,3.9339999999999997,1
+169,1169,Cheryl Rogers,43,Adult,M,2026-01-12,2025-10-30,74,Victoria Hansen,General,508.62600000000003,1
+170,1170,Cheryl Ruiz,66,Middle age,M,2025-05-23,2024-04-29,389,Maria Thomas,Orthopedics,136.053,1
+171,1171,Cheryl Smith,48,Adult,F,2025-10-01,2024-11-03,332,Sarah Harper DDS,Cardiology,97.46,0
+172,1172,Chris Rice,61,Middle age,M,2025-07-31,2024-05-05,452,Amy Olson,Neurology,2.7714,0
+173,1173,Chris Wells,71,Senior,M,2025-05-17,2024-12-25,143,Crystal Medina,Neurology,1.3238,1
+174,1174,Christian Guerrero,77,Senior,F,2026-01-07,2024-06-29,557,Jennifer Perez,Cardiology,298.89,1
+175,1175,Christian Thomas,38,Adult,M,2025-07-06,2025-04-23,74,Gregory Tapia,Neurology,526.7160000000001,1
+176,1176,Christina Eaton,85,Senior,M,2026-01-20,2025-03-10,316,Stephanie Kelley DVM,Neurology,192.87,0
+177,1177,Christina Macdonald,64,Middle age,F,2025-09-16,2025-01-23,236,Samuel Ramirez,General,0.9136,1
+178,1178,Christina Moore,64,Middle age,M,2025-05-31,2024-08-21,283,Joshua Martin,Orthopedics,643.9095000000001,0
+179,1179,Christina Spencer,61,Middle age,M,2025-11-14,2024-05-10,553,Mark Kelley,Orthopedics,416.178,0
+180,1180,Christine Barron,59,Middle age,M,2026-03-20,2025-12-24,86,Thomas Clark MD,Cardiology,1.0704,1
+181,1181,Christine Herring,89,Senior,F,2025-12-22,2025-03-08,289,Kristin Hartman,General,530.8641,1
+182,1182,Christine Lane,27,Young adult,F,2025-04-07,2024-04-02,370,Kimberly Long,Orthopedics,281.88000000000005,0
+183,1183,Christine Murphy,21,Young adult,F,2025-08-18,2024-07-23,391,Amanda Mendoza,Cardiology,96.21,1
+184,1184,Christine Price,69,Middle age,F,2025-10-01,2024-05-23,496,Susan Brown,Orthopedics,258.21,0
+185,1185,Christine Vega,80,Senior,M,2025-04-27,2025-03-23,35,Jordan Cole,General,3.0111000000000003,1
+186,1186,Christopher Beard,65,Middle age,M,2026-03-04,2024-06-01,641,Jerry Torres,General,1.2644,1
+187,1187,Christopher Brown,49,Adult,F,2025-03-26,2025-01-02,83,Henry Moore,Cardiology,0.9208,0
+188,1188,Christopher Brown,28,Young adult,M,2026-02-13,2024-06-13,610,Kimberly Johnson,Neurology,208.548,0
+189,1189,Christopher Johnson,26,Young adult,F,2025-10-31,2025-03-22,223,Susan Stanton,Neurology,461.18,1
+190,1190,Christopher Lopez,39,Adult,M,2026-01-15,2025-11-11,65,Caleb Kennedy,General,295.71,0
+191,1191,Christopher Lopez,45,Adult,M,2026-03-21,2024-05-04,686,Kevin Pearson,General,547.5465,1
+192,1192,Christopher Massey,82,Senior,M,2025-07-15,2025-05-19,57,William Moore,Orthopedics,580.2497999999999,1
+193,1193,Christopher Miller,51,Middle age,M,2025-12-27,2025-01-11,350,Christine Arnold,General,557.2242,0
+194,1194,Christopher Powell,69,Middle age,M,2025-03-31,2024-11-05,146,Gary Wood,Orthopedics,4.7937,1
+195,1195,Christopher Singleton,81,Senior,F,2025-10-26,2025-02-19,249,Brandy Graves,General,65.06,1
+196,1196,Christopher Trujillo,69,Middle age,M,2025-04-06,2024-07-28,252,Keith Smith,Orthopedics,236.69550000000004,0
+197,1197,Christy Nunez,54,Middle age,M,2025-07-11,2024-06-25,381,Theresa Parker,Cardiology,395.7408,1
+198,1198,Clayton Williamson,85,Senior,M,2025-09-10,2024-08-20,386,Glen Diaz,Neurology,185.52,0
+199,1199,Clinton Estrada,75,Senior,M,2025-11-06,2024-10-14,388,Jacob Bender,Orthopedics,242.42107661290325,1
+200,1200,Cody Scott,69,Middle age,M,2025-10-06,2024-11-29,311,Larry Cohen,Neurology,448.6599,1
+201,1201,Connie Wheeler,29,Young adult,M,2025-12-30,2025-08-08,144,Sherri Buckley,Neurology,519.7139999999999,0
+202,1202,Corey Smith,52,Middle age,M,2025-05-18,2025-02-15,92,Luke Williams,Cardiology,130.7,0
+203,1203,Corey Turner,27,Young adult,F,2025-06-05,2025-03-13,84,Heidi Baker,Orthopedics,4.351,1
+204,1204,Courtney Everett,39,Adult,F,2026-01-09,2024-08-09,518,Ryan Chavez,Cardiology,352.22850000000005,0
+205,1205,Courtney Gonzales,84,Senior,F,2025-05-26,2024-10-31,207,Kayla Norris,Cardiology,385.01,0
+206,1206,Courtney Hunt,74,Senior,F,2025-08-17,2024-10-21,300,Mrs. Kayla Peterson,General,355.5747,0
+207,1207,Courtney Powell,82,Senior,M,2026-01-24,2024-10-03,478,Kelly Hardin,Orthopedics,295.4601,0
+208,1208,Courtney Wright,43,Adult,X,2025-07-26,2024-05-24,428,Daniel Morris,Orthopedics,3.6265,1
+209,1209,Craig Hunt,38,Adult,F,2025-11-01,2024-05-25,525,Cynthia Brown,Neurology,122.56,1
+210,1210,Craig Nixon,55,Middle age,X,2025-10-12,2025-08-20,53,William Key,Neurology,460.60650000000004,0
+211,1211,Craig Parsons,71,Senior,F,2026-01-09,2025-12-15,25,Jose Price,General,436.05,0
+212,1212,Crystal Oneal,60,Middle age,M,2025-08-19,2025-01-23,208,Harold Gray,Neurology,421.74,1
+213,1213,Curtis Cooke,84,Senior,M,2025-09-29,2024-06-24,462,John Hancock,Neurology,558.1836,0
+214,1214,Cynthia Hensley,86,Senior,M,2026-03-08,2024-07-09,607,David Robles,Neurology,1.6038,1
+215,1215,Cynthia Jones,38,Adult,M,2025-05-31,2024-05-26,370,Eugene Little,Orthopedics,3.1814999999999998,1
+216,1216,Cynthia Richard,36,Adult,M,2026-03-17,2024-08-25,569,Scott King,Orthopedics,243.39509999999999,0
+217,1217,Cynthia Wells,37,Adult,M,2025-11-17,2025-01-07,314,Ashlee Romero,Orthopedics,605.6100000000001,0
+218,1218,Dakota Kelly,44,Adult,F,2025-10-07,2024-11-17,324,Andre Jones,Neurology,2.9199,0
+219,1219,Dale Fisher,24,Young adult,M,2026-01-16,2024-04-20,636,Dr. Heidi Johnson,Cardiology,3.6039,0
+220,1220,Dalton Rodriguez,54,Middle age,M,2025-08-01,2024-05-07,451,Erica Sanchez,General,4.672,1
+221,1221,Dana Martinez,89,Senior,M,2025-03-27,2024-12-16,101,Barry Bennett,Cardiology,4.6692,0
+222,1222,Dana Mcclure,41,Adult,F,2026-03-02,2025-09-27,156,Mark Norton,General,203.175,0
+223,1223,Dana Park,79,Senior,F,2026-01-28,2024-04-03,665,Christopher Garrett,Neurology,3.4127,1
+224,1224,Daniel Ballard,38,Adult,M,2025-03-26,2025-03-02,24,Willie Williams,Cardiology,154.764,0
+225,1225,Daniel Barajas,56,Middle age,F,2025-04-07,2025-01-08,89,Joshua Burnett,Neurology,319.194,1
+226,1226,Daniel Braun,27,Young adult,M,2026-03-20,2026-02-09,39,Tonya Kennedy,Cardiology,295.28459999999995,1
+227,1227,Daniel Cole,69,Middle age,M,2025-05-06,2024-09-28,220,Dustin Jones,Cardiology,458.12,1
+228,1228,Daniel Garrett,38,Adult,M,2026-01-28,2025-06-01,241,Francisco Steele,Neurology,573.075,0
+229,1229,Daniel Green,32,Young adult,M,2025-07-05,2025-01-04,182,James Fox,Orthopedics,2.5414,1
+230,1230,Daniel Long,38,Adult,F,2025-11-17,2024-10-09,404,Jean Lawson DDS,Neurology,118.28699999999999,1
+231,1231,Daniel Marshall,74,Senior,M,2025-12-11,2025-04-23,232,Lisa Taylor,Cardiology,401.625,1
+232,1232,Daniel Rivera,63,Middle age,F,2025-12-28,2025-12-22,6,Morgan Green,Neurology,1.5541999999999998,1
+233,1233,Daniel Valenzuela,45,Adult,M,2025-06-21,2025-03-13,100,Karen Brewer,Cardiology,245.21,1
+234,1234,Daniel Vazquez,83,Senior,F,2026-03-21,2025-12-09,102,Lisa Fry,Neurology,263.007,1
+235,1235,Daniel White,67,Middle age,M,2025-04-12,2024-07-13,273,Chad Johnson,Neurology,2.7751,0
+236,1236,Daniel White,37,Adult,F,2025-05-25,2024-10-12,225,Justin Hall,General,550.6370999999999,1
+237,1237,Daniel Willis,53,Middle age,F,2025-11-05,2025-08-01,96,Megan Austin,Neurology,2.3499000000000003,1
+238,1238,Danielle Barrett,36,Adult,F,2025-12-20,2024-03-27,633,Gregory Griffin,General,3.8616,1
+239,1239,Danielle Ortega,76,Senior,M,2025-08-18,2025-06-14,65,Tiffany Lowery,Orthopedics,83.67,0
+240,1240,Danny Cooper,21,Young adult,M,2025-04-27,2025-03-13,45,Mark Morrison,Neurology,192.38309999999998,1
+241,1241,Danny Gray,68,Middle age,M,2025-04-14,2025-02-13,60,Patricia Carpenter,General,233.4735,0
+242,1242,Darin Caldwell,54,Middle age,M,2025-09-03,2025-02-20,195,Danielle Pacheco,Cardiology,216.6255,0
+243,1243,Darlene Clark,65,Middle age,M,2025-11-09,2024-11-16,358,Thomas Williams,Neurology,511.083,0
+244,1244,Darlene Hodge,69,Middle age,M,2025-05-27,2025-04-20,37,Amanda Cruz,Orthopedics,73.8738,0
+245,1245,Darren Alvarado,38,Adult,M,2025-05-29,2025-05-13,16,Spencer Booth,Cardiology,124.95599999999999,0
+246,1246,Darren Douglas,23,Young adult,F,2026-02-01,2025-09-04,150,Andrew Gordon,Orthopedics,463.06,1
+247,1247,Darryl Murphy,82,Senior,M,2026-03-03,2024-11-03,485,Christian Chapman,Cardiology,242.45909999999998,0
+248,1248,Dave Summers,25,Young adult,F,2026-02-09,2025-01-19,386,Traci Hopkins,Orthopedics,217.51,1
+249,1249,David Chapman,66,Middle age,F,2025-07-27,2025-07-17,10,Rachel Wells,Orthopedics,516.6045,0
+250,1250,David Jones,25,Young adult,F,2026-02-24,2025-11-21,95,Dakota Fleming,General,4.4312000000000005,0
+251,1251,David Kidd,23,Young adult,M,2025-11-23,2025-09-10,74,Kathy Thompson,Orthopedics,433.80899999999997,0
+252,1252,David Kramer,54,Middle age,F,2026-03-25,2024-09-05,566,Anne Watkins,General,440.05950000000007,1
+253,1253,David Mann,68,Middle age,M,2026-03-16,2024-05-06,679,Donald Ferguson,Orthopedics,293.9895,1
+254,1254,David Martinez,80,Senior,M,2025-09-13,2025-07-07,68,Amber Braun,Cardiology,214.98587589285714,1
+255,1255,David Mcdonald,84,Senior,M,2025-12-24,2024-08-30,481,Donald Garcia,General,408.59100000000007,1
+256,1256,David Reeves,52,Middle age,M,2025-12-06,2025-01-19,321,Marc Copeland,General,239.6478689497717,0
+257,1257,David Rose,78,Senior,M,2025-11-09,2025-07-14,118,Dana Ewing,Orthopedics,1.1473,1
+258,1258,David Thompson,47,Adult,F,2025-12-03,2025-08-24,101,Derek Velazquez,Cardiology,157.6125,0
+259,1259,David Wilson,78,Senior,M,2026-01-09,2025-05-07,247,Matthew Wilson,Cardiology,560.169,0
+260,1260,David Young,58,Middle age,M,2025-11-06,2025-05-15,175,Amy Williams,Cardiology,226.97,0
+261,1261,Dawn Bryant,48,Adult,F,2025-06-14,2025-03-21,85,Charles Nguyen,Cardiology,1.6415000000000002,1
+262,1262,Deanna Abbott,46,Adult,F,2025-09-04,2025-05-08,119,Damon Hayes,Orthopedics,260.1045,1
+263,1263,Deanna Manning,50,Adult,F,2025-11-14,2025-09-14,61,Austin Stout,Cardiology,1.0137,0
+264,1264,Deborah Robinson,36,Adult,F,2026-01-25,2024-10-30,452,Joseph Bell,Cardiology,186.2757,1
+265,1265,Deborah Wagner,74,Senior,F,2026-02-15,2025-05-30,261,Cesar Sanchez,Neurology,2.7760000000000002,0
+266,1266,Debra Ford,33,Young adult,F,2026-02-22,2025-09-19,156,Allison Smith,Orthopedics,623.4435000000001,1
+267,1267,Debra Short,64,Middle age,M,2025-06-24,2024-10-06,261,Karla Baker,General,452.05289999999997,0
+268,1268,Denise Anderson,51,Middle age,M,2025-12-28,2025-04-17,255,Timothy Beasley,General,510.0975000000001,0
+269,1269,Dennis Hurley,81,Senior,M,2025-04-10,2024-12-16,115,Daniel Jacobson,General,3.293,1
+270,1270,Dennis Jacobs,33,Young adult,M,2026-02-18,2024-06-02,626,Katherine Long,General,307.29,1
+271,1271,Derek Smith,82,Senior,F,2025-05-23,2024-10-18,217,Jeremy Burton,Cardiology,215.76,0
+272,1272,Desiree Wilkins,34,Young adult,F,2026-02-28,2025-07-31,212,Jamie Ford,General,305.84,1
+273,1273,Destiny Martin,24,Young adult,F,2026-02-16,2025-08-26,174,Lynn Jones,General,4.2058,0
+274,1274,Diana Collins,47,Adult,F,2025-11-25,2024-10-06,415,Glenn Bond,Cardiology,485.08200000000005,0
+275,1275,Diana Schroeder,73,Senior,M,2025-08-24,2025-07-04,51,Alexandra Lee,Neurology,262.84,0
+276,1276,Diane Adams,81,Senior,F,2025-12-30,2025-01-09,355,Andrew Carroll,General,138.9024,0
+277,1277,Dominic Bell,37,Adult,M,2025-11-18,2024-11-18,365,April Castillo,Cardiology,3.5613,1
+278,1278,Donald Reed,60,Middle age,F,2025-05-06,2024-10-11,207,Danny Webster,General,453.66,1
+279,1279,Donna Clark,40,Adult,F,2025-09-03,2024-04-08,513,Joanne Adams,Cardiology,180.9756,1
+280,1280,Donna Green,78,Senior,F,2026-01-14,2025-05-07,252,Clifford Ramirez,Orthopedics,307.9791,0
+281,1281,Donna Jenkins,68,Middle age,F,2025-05-30,2024-05-14,381,Rachel Allen,General,3.9097000000000004,1
+282,1282,Donna Stone,29,Young adult,F,2026-02-20,2024-08-22,547,Daniel Bender,Neurology,623.9025,0
+283,1283,Donna West,35,Young adult,M,2025-05-24,2024-07-18,310,Troy Hill,Orthopedics,4.521100000000001,1
+284,1284,Dr. Christina Dunn,51,Middle age,F,2025-09-11,2024-06-13,455,Madeline Sharp,General,3.8158999999999996,0
+285,1285,Dr. John Hernandez,33,Young adult,F,2025-12-29,2024-05-29,579,Michelle Austin,General,409.96,0
+286,1286,Dr. Karen Miller DDS,37,Adult,M,2025-04-19,2024-04-29,355,Martin Herring,Orthopedics,514.5525,0
+287,1287,Dr. Lindsey Arias DDS,48,Adult,F,2025-09-14,2024-11-28,290,Colton Williams,Cardiology,107.4879,0
+288,1288,Dr. Michele Copeland,35,Young adult,M,2025-09-25,2024-05-24,489,Debra Castillo,Neurology,219.11759999999998,1
+289,1289,Dr. Peggy Mendoza,60,Middle age,F,2025-04-12,2025-01-23,79,Ashley Flowers,Neurology,113.4198,1
+290,1290,Duane Mitchell,52,Middle age,F,2026-01-12,2024-09-08,491,Helen Jackson,Neurology,186.1587,0
+291,1291,Dustin Perry,38,Adult,M,2026-01-25,2024-04-09,656,Adam Moore,Neurology,424.21,0
+292,1292,Dustin Willis,54,Middle age,F,2025-08-22,2024-11-07,288,Jamie Hill,General,452.37,1
+293,1293,Dwayne Clarke,42,Adult,M,2025-08-12,2024-09-08,338,Andrew Meadows,Neurology,176.5998,0
+294,1294,Dylan Jones,22,Young adult,F,2025-10-02,2025-07-04,90,Katherine Small,General,4.9858,0
+295,1295,Eddie Tate,53,Middle age,M,2026-01-26,2024-09-27,486,Paul Johnson,Neurology,3.7403,1
+296,1296,Eduardo Martinez,89,Senior,M,2025-10-14,2024-09-16,393,Craig Kelly,Cardiology,555.282,1
+297,1297,Edward Black,88,Senior,F,2025-12-04,2025-10-11,54,Nathan Summers,Orthopedics,2.6875,0
+298,1298,Edward Holland,86,Senior,M,2025-09-07,2025-01-11,239,Joe Rodriguez,Neurology,345.46500000000003,0
+299,1299,Edward Perry,54,Middle age,F,2025-12-09,2025-07-12,150,James Miller,General,4.8452,0
+300,1300,Edward Russell,26,Young adult,M,2025-10-17,2024-12-12,309,Connor Brown,Orthopedics,126.15750000000001,0
+301,1301,Edward Sanders,29,Young adult,X,2025-09-16,2025-04-29,140,Steven Bailey,Orthopedics,4.7977,0
+302,1302,Edward Taylor,67,Middle age,F,2025-07-02,2024-06-04,393,Yvette Johnson,Orthopedics,454.89599999999996,0
+303,1303,Edward Thomas,80,Senior,F,2025-09-28,2024-08-30,394,Teresa Medina,Neurology,84.72,1
+304,1304,Elaine Williams,42,Adult,F,2026-03-15,2024-05-23,661,Daniel Carlson,Cardiology,1.8902,1
+305,1305,Elizabeth Bryant,37,Adult,F,2025-07-19,2024-06-10,404,Rebecca Kim,Orthopedics,4.2563,0
+306,1306,Elizabeth Decker,86,Senior,F,2025-10-22,2025-07-19,95,Brandi Hale,Orthopedics,1.6818000000000002,1
+307,1307,Elizabeth Duke,82,Senior,F,2026-01-15,2025-07-24,175,Michael Rogers,General,183.2337,0
+308,1308,Elizabeth Johnson,87,Senior,F,2026-01-24,2024-12-09,411,Dr. Mary Day,General,4.6132,1
+309,1309,Elizabeth Russo,67,Middle age,M,2025-07-03,2024-07-30,338,Connie Martinez,Neurology,241.51399845559845,1
+310,1310,Ellen Fitzpatrick,59,Middle age,M,2025-11-14,2025-04-23,205,Grant Parker,Neurology,271.60650000000004,0
+311,1311,Ellen Rogers,31,Young adult,F,2025-08-30,2025-01-17,225,Tammie Melendez,General,496.27889999999996,1
+312,1312,Ellen Stevens,35,Young adult,M,2025-07-14,2024-07-02,377,Charles Wells,Orthopedics,647.7165000000001,0
+313,1313,Emily Miller,55,Middle age,M,2025-04-01,2024-09-13,200,Nicole Bates,Orthopedics,432.84,0
+314,1314,Emma Ferrell,23,Young adult,M,2025-09-10,2024-04-23,505,David Bradford,General,394.8516,1
+315,1315,Emma Martin,79,Senior,M,2025-08-24,2025-08-21,3,Charles Mcmillan,Orthopedics,77.9688,1
+316,1316,Eric Allen,67,Middle age,M,2025-08-01,2025-05-09,84,Amanda Mclaughlin,Neurology,445.2705,0
+317,1317,Eric Coffey,23,Young adult,M,2025-08-28,2024-09-04,358,Jeffrey Burns,Cardiology,2.8429,0
+318,1318,Eric Kim,33,Young adult,F,2025-06-13,2024-06-09,369,Arthur Harris,General,239.6478689497717,0
+319,1319,Eric Lawson,78,Senior,M,2026-02-02,2025-11-14,80,Andrew Webb,Cardiology,179.07,0
+320,1320,Erica Jimenez,75,Senior,M,2025-12-17,2024-09-22,451,Bethany Mcpherson,Neurology,591.5160000000001,0
+321,1321,Erica Robbins,68,Middle age,F,2025-07-04,2024-10-31,246,Matthew Carlson,General,400.6,1
+322,1322,Erica Thompson,34,Young adult,F,2025-12-07,2025-10-11,57,Jill Kelley,General,4.6672,0
+323,1323,Erik Davis,30,Young adult,M,2025-05-30,2024-12-05,176,Amanda White,Neurology,241.51399845559845,1
+324,1324,Erik Martinez,24,Young adult,M,2025-10-28,2025-01-15,286,Jennifer Carroll,Cardiology,97.67,1
+325,1325,Erika Davis,28,Young adult,M,2025-06-08,2025-06-06,2,Allison Parker,Neurology,594.9720000000001,0
+326,1326,Erika Davis,42,Adult,M,2025-07-30,2025-03-09,143,Jamie Andrews,Cardiology,530.6850000000001,1
+327,1327,Erin Baker,36,Adult,M,2025-10-02,2025-09-12,20,Carla King,General,2.395,1
+328,1328,Erin Bates,50,Adult,M,2025-06-13,2025-01-15,149,Chelsea Harris,Cardiology,370.13,1
+329,1329,Erin Small,82,Senior,M,2025-05-15,2025-05-13,2,Jeff Lane,General,472.5279,0
+330,1330,Erin Williams,69,Middle age,F,2026-02-04,2024-10-17,475,Sean Hernandez,Cardiology,161.56,1
+331,1331,Eugene Underwood,80,Senior,M,2025-11-11,2025-05-20,175,Benjamin Williams,Neurology,4.6755,0
+332,1332,Evan Price,87,Senior,M,2025-07-31,2024-11-02,271,Brooke Ramos,Cardiology,369.12,1
+333,1333,Frank Castaneda,70,Middle age,M,2025-07-26,2024-09-02,327,Christopher Chen,Neurology,241.51399845559845,0
+334,1334,Frank Fields,30,Young adult,F,2025-06-27,2025-05-21,37,Heather Diaz,General,168.86,1
+335,1335,Gabriel Yang,41,Adult,M,2025-10-31,2024-07-10,478,Justin Thomas,Neurology,319.38300000000004,0
+336,1336,Gabriela Pope,62,Middle age,F,2026-01-02,2025-02-26,310,Melissa Brown,Neurology,413.25,1
+337,1337,Gary Ramos,84,Senior,F,2026-03-25,2025-08-31,206,Gregory Riley,Cardiology,3.5335,1
+338,1338,Gary Simpson,63,Middle age,M,2025-07-05,2025-06-21,14,Veronica Chen,Neurology,462.6,1
+339,1339,Gary Taylor,87,Senior,X,2025-05-19,2024-06-12,341,Lauren Medina,General,434.02500000000003,1
+340,1340,Gary Walker,87,Senior,X,2025-03-26,2024-03-26,365,Matthew Lopez,Orthopedics,2.1623,1
+341,1341,George Houston,71,Senior,X,2025-09-06,2024-05-21,473,Brian Vincent,Neurology,151.3746,0
+342,1342,Glen Arroyo,70,Middle age,F,2025-09-12,2024-06-03,466,Christopher Schneider,Neurology,225.8685,1
+343,1343,Glenn Wall,26,Young adult,F,2025-09-15,2025-05-13,125,Sarah Peterson,Cardiology,112.9,1
+344,1344,Gregory Arellano,71,Senior,F,2025-08-05,2025-07-07,29,Natalie Smith,Orthopedics,400.62,0
+345,1345,Gregory Garcia,73,Senior,F,2025-05-01,2024-07-25,280,Megan Jensen,Cardiology,466.08,0
+346,1346,Gregory Hines,76,Senior,M,2026-02-07,2026-01-15,23,Rebecca Goodwin,Orthopedics,2.5543,0
+347,1347,Haley King,84,Senior,M,2026-02-12,2024-06-21,601,Erin Carr,Cardiology,280.7181,0
+348,1348,Haley Mcintosh,74,Senior,F,2025-10-19,2024-08-07,438,Amanda Boyd,Orthopedics,567.2393999999999,1
+349,1349,Haley Taylor,51,Middle age,F,2025-07-06,2025-04-18,79,Christopher Wolfe,General,4.335500000000001,1
+350,1350,Hannah Perez,21,Young adult,F,2025-11-07,2025-07-27,103,Rita Smith,Neurology,151.092,0
+351,1351,Harry Wallace,80,Senior,F,2025-12-01,2024-10-28,399,Nancy Hernandez,Orthopedics,493.0,1
+352,1352,Heather Baker,67,Middle age,F,2025-09-13,2025-01-07,249,Andrew Thomas,Orthopedics,290.6685,1
+353,1353,Heather Jackson,58,Middle age,F,2025-06-04,2025-01-26,129,Todd Silva,Neurology,3.6513,0
+354,1354,Heidi Alvarez,88,Senior,M,2025-07-30,2025-06-30,30,Jeremy Wilson,General,0.9419,1
+355,1355,Heidi Sosa,29,Young adult,M,2025-11-10,2025-05-17,177,Nancy Wilson,Cardiology,2.4181,1
+356,1356,Henry Carlson,65,Middle age,F,2025-09-23,2024-04-01,540,Benjamin Brown,Orthopedics,2.3011000000000004,1
+357,1357,Henry Henderson,58,Middle age,M,2025-06-10,2024-08-02,312,James Love,Orthopedics,242.42107661290325,0
+358,1358,Henry Quinn,23,Young adult,F,2025-08-10,2025-04-22,110,Audrey Hansen,General,350.0,0
+359,1359,Henry Snyder,59,Middle age,M,2025-10-16,2024-04-29,535,Theresa Simon,Cardiology,285.44,1
+360,1360,Holly Potter,75,Senior,M,2025-11-21,2025-01-02,323,Christina Mitchell,General,2.745,1
+361,1361,Hunter Miller,65,Middle age,F,2025-07-24,2025-05-31,54,Kathy Lawson,Neurology,518.9670000000001,0
+362,1362,Ian Bush,39,Adult,M,2026-01-09,2025-06-20,203,Steven Welch,Cardiology,489.3993,0
+363,1363,Ian Weaver,18,,F,2026-01-19,2025-06-01,232,Audrey Torres,Neurology,3.1716,1
+364,1364,Jack Cooper,67,Middle age,F,2025-04-09,2024-06-20,293,Christopher Smith,General,2.4449,0
+365,1365,Jack Sutton,76,Senior,F,2025-11-28,2025-04-20,222,Paul Giles,General,374.72,1
+366,1366,Jackie Lane,56,Middle age,M,2025-06-04,2024-05-29,371,Jackie Harper,Cardiology,3.3527,1
+367,1367,Jaclyn Knight,66,Middle age,F,2025-08-24,2024-05-19,462,John Oliver,Orthopedics,380.7405,0
+368,1368,Jacob Price,25,Young adult,M,2025-06-14,2024-04-27,413,Kimberly Rangel,Neurology,278.5185,1
+369,1369,Jacqueline Collins,67,Middle age,F,2025-06-12,2025-05-18,25,Paul Parker,Neurology,161.5,0
+370,1370,Jacqueline Howell,30,Young adult,M,2026-02-21,2025-05-23,274,Felicia Smith,Cardiology,427.464,1
+371,1371,Jacqueline Peters,40,Adult,F,2025-12-09,2025-10-11,59,Adam Jensen,General,312.0858,1
+372,1372,Jacqueline West,70,Middle age,M,2026-01-19,2025-01-17,367,Steven Walker,General,200.79900000000004,1
+373,1373,Jade Blanchard MD,23,Young adult,F,2026-01-29,2024-07-01,577,Amber Waters,Orthopedics,151.03,0
+374,1374,Jake Robinson,62,Middle age,F,2025-09-09,2024-11-25,288,Nathan Quinn,Cardiology,1.7828,1
+375,1375,James Carey,41,Adult,M,2025-04-03,2024-08-22,224,James Berger,Orthopedics,634.6080000000001,1
+376,1376,James Fox,60,Middle age,F,2025-12-22,2024-05-17,584,Victoria Osborne,General,2.0486,1
+377,1377,James Gibbs,25,Young adult,F,2025-11-16,2024-09-22,420,Lisa Norris,Cardiology,368.56,0
+378,1378,James Jimenez,53,Middle age,M,2025-10-26,2025-09-14,42,Ryan Marsh,Neurology,396.85229999999996,0
+379,1379,James Johnston,22,Young adult,M,2025-11-02,2025-04-24,192,Drew Bartlett,General,206.53,1
+380,1380,James Lopez,85,Senior,F,2025-09-19,2025-09-16,3,Carla Cole,Cardiology,189.00179999999997,1
+381,1381,James Malone,84,Senior,F,2025-09-26,2025-06-16,102,Rhonda Oconnor,Neurology,326.84,1
+382,1382,James Mendez,89,Senior,F,2025-07-02,2025-04-08,85,Jackie Brooks,General,186.43,0
+383,1383,James Miller,23,Young adult,M,2025-09-09,2024-11-25,288,Dawn Collins,General,139.43,0
+384,1384,James Noble,68,Middle age,M,2025-06-25,2025-06-05,20,Dylan George,Cardiology,249.99389999999997,1
+385,1385,James Perry,57,Middle age,M,2025-08-27,2024-04-05,509,Leonard Campbell,Cardiology,385.61,1
+386,1386,James Price,72,Senior,M,2025-06-20,2024-09-18,275,Jessica Garcia,General,194.55,1
+387,1387,James Stout,20,Young adult,M,2025-10-03,2025-07-30,65,Andrea Myers,Neurology,90.14849999999998,0
+388,1388,James Wise,67,Middle age,F,2025-09-05,2024-05-19,474,Karen Schmidt,Neurology,114.74189999999999,1
+389,1389,Jamie Aguilar,77,Senior,F,2025-09-19,2024-08-20,395,Michael Duke,Cardiology,468.01169999999996,1
+390,1390,Jamie Mcclure,35,Young adult,F,2026-03-13,2025-07-27,229,Katherine Sanders,Orthopedics,80.38,1
+391,1391,Jamie Miller,84,Senior,F,2026-02-05,2024-05-28,618,Gloria Perez,Orthopedics,223.6923,0
+392,1392,Jamie Nixon,69,Middle age,M,2026-03-16,2024-06-19,635,Scott Allen,General,412.82,0
+393,1393,Jamie Peck,40,Adult,F,2026-01-14,2025-11-13,62,Lisa Garcia,Neurology,475.5231,0
+394,1394,Jamie Wright,62,Middle age,F,2025-04-03,2025-03-18,16,Lori Hall,Orthopedics,247.0806,1
+395,1395,Janet Gordon,41,Adult,F,2025-05-14,2024-04-05,404,Michelle Johnson,General,3.9873000000000003,0
+396,1396,Janet Lewis,65,Middle age,M,2025-10-28,2025-08-18,71,Gregory Neal,Neurology,355.0014,0
+397,1397,Jared Butler,38,Adult,M,2025-08-19,2025-06-09,71,Jason Morales,General,285.2226,1
+398,1398,Jared Green,28,Young adult,F,2025-10-08,2025-05-10,151,Brenda Castro,Neurology,275.7573,0
+399,1399,Jared Lester,26,Young adult,M,2025-10-20,2024-09-09,406,David Espinoza,Orthopedics,419.06700000000006,0
+400,1400,Jared Parrish,42,Adult,F,2025-08-05,2025-07-27,9,Wendy Herrera,Orthopedics,1.3256999999999999,0
+401,1401,Jason Harrington,62,Middle age,M,2026-01-16,2025-07-14,186,Stacey Miller,Orthopedics,242.42107661290325,0
+402,1402,Jason Hicks,86,Senior,F,2025-12-17,2025-09-19,89,Stacey Garcia,Orthopedics,386.5329,0
+403,1403,Jason Kennedy,46,Adult,M,2025-10-18,2024-10-03,380,Robert Fowler,Orthopedics,386.9892,0
+404,1404,Jason Larson,66,Middle age,F,2026-02-02,2025-02-14,353,Helen Davis,Neurology,326.5785,1
+405,1405,Jason Tate,71,Senior,F,2026-01-27,2025-03-07,326,Kimberly Young,Cardiology,567.2043,1
+406,1406,Javier Hawkins,38,Adult,M,2026-02-01,2024-04-16,656,Debra Fields,Orthopedics,427.54,0
+407,1407,Jean Kramer,30,Young adult,X,2025-05-29,2024-05-31,363,Donald Clark,Orthopedics,517.0464,1
+408,1408,Jeff Lynch,57,Middle age,F,2025-12-04,2024-10-12,418,Joseph Gibbs,Neurology,62.4195,0
+409,1409,Jeffrey Bates,87,Senior,M,2025-04-08,2024-12-04,125,Lisa Ho,Cardiology,401.55,1
+410,1410,Jeffrey Hart,70,Middle age,F,2025-12-09,2024-11-16,388,Jacob Townsend,Orthopedics,4.5966000000000005,1
+411,1411,Jeffrey Johnston,36,Adult,M,2026-01-21,2025-01-06,380,Cynthia Baker,Orthopedics,2.4037,0
+412,1412,Jeffrey Martinez,86,Senior,F,2026-02-09,2026-01-21,19,Michael Ross,Neurology,469.3,0
+413,1413,Jeffrey Solis,49,Adult,F,2025-05-15,2025-04-09,36,William Nichols,Neurology,335.82509999999996,1
+414,1414,Jeffrey Warren,60,Middle age,F,2025-07-20,2024-11-21,241,Mrs. Michelle Reed,Cardiology,3.4054,0
+415,1415,Jenna Williams,67,Middle age,F,2025-07-19,2024-12-04,227,Ryan Mitchell,General,149.33,1
+416,1416,Jennifer Aguirre,90,Senior,M,2025-10-14,2024-05-28,504,Richard Huang,Neurology,0.7273000000000001,0
+417,1417,Jennifer Barber,74,Senior,M,2025-12-06,2024-10-04,428,Christopher Smith,Neurology,66.2571,1
+418,1418,Jennifer Davis,47,Adult,F,2026-02-17,2024-05-09,649,Michael Bryant,Cardiology,215.89,0
+419,1419,Jennifer Dorsey,27,Young adult,X,2026-02-10,2025-06-29,226,Michael Stanley,General,147.08,0
+420,1420,Jennifer Jackson,80,Senior,F,2025-07-29,2024-04-14,471,Frank Harrell,Neurology,105.64,0
+421,1421,Jennifer Long,55,Middle age,F,2026-03-01,2024-06-03,636,Thomas Hernandez,Neurology,375.17220000000003,0
+422,1422,Jennifer Lowery,21,Young adult,F,2025-09-16,2025-03-23,177,Tracy Johnson,Cardiology,259.974,0
+423,1423,Jennifer Martin,30,Young adult,M,2026-02-22,2025-07-04,233,Jeffery Smith,General,323.1765,0
+424,1424,Jennifer Reese,62,Middle age,F,2025-11-07,2024-08-11,453,James Aguilar,Cardiology,482.1525,0
+425,1425,Jennifer Schwartz,90,Senior,X,2026-02-12,2024-08-14,547,Mrs. Michelle Ramsey,Orthopedics,554.9777999999999,0
+426,1426,Jennifer Schwartz,30,Young adult,F,2025-12-31,2025-11-14,47,Tamara Smith,Cardiology,280.21,1
+427,1427,Jennifer Shaffer,59,Middle age,F,2025-06-08,2024-12-26,164,Brittany Watson,Orthopedics,382.64,1
+428,1428,Jennifer Sims,63,Middle age,F,2025-10-15,2025-02-02,255,Janet Coffey,Cardiology,369.38069999999993,1
+429,1429,Jennifer Stark,34,Young adult,X,2025-06-29,2024-12-04,207,Jason Williams,Neurology,2.7033,0
+430,1430,Jennifer Stevens,70,Middle age,F,2025-11-03,2025-06-16,140,Joseph Park,Cardiology,312.093,1
+431,1431,Jennifer Wells,79,Senior,F,2025-05-13,2024-09-02,253,David Cole,Orthopedics,82.84,0
+432,1432,Jennifer Williams,80,Senior,M,2026-01-04,2025-10-18,78,Emily Barnes,General,498.84,0
+433,1433,Jenny Black,33,Young adult,F,2025-11-14,2025-09-06,69,Jamie Nunez,Neurology,381.93,0
+434,1434,Jenny Martin,59,Middle age,M,2025-11-30,2025-08-01,121,Andrew Terry,Orthopedics,461.6586,1
+435,1435,Jeremiah Cole,88,Senior,F,2026-01-30,2024-08-12,536,Louis Turner,General,203.61,0
+436,1436,Jeremiah Cruz,64,Middle age,M,2026-03-14,2026-02-10,32,Matthew Pratt,Neurology,208.0845,1
+437,1437,Jeremiah Perez,48,Adult,M,2025-07-25,2025-01-14,192,Michael Black,Orthopedics,91.94,0
+438,1438,Jeremy Coleman,83,Senior,M,2025-09-11,2024-09-03,373,David Riley,Neurology,0.6399,0
+439,1439,Jerry Holmes,88,Senior,M,2025-12-05,2024-08-02,490,Kim Daniels,Neurology,3.4457,1
+440,1440,Jerry Jones,66,Middle age,M,2025-08-21,2024-06-05,442,Ashley Gomez,General,261.87,0
+441,1441,Jerry White,76,Senior,M,2025-08-19,2025-08-15,4,Steven Scott,General,1.5158000000000003,1
+442,1442,Jesse Robertson,24,Young adult,M,2025-07-27,2025-07-19,8,Rebecca Gross,Orthopedics,111.4425,1
+443,1443,Jesse Wood,69,Middle age,M,2026-01-02,2024-09-23,466,Deborah Vasquez,Neurology,2.2483,1
+444,1444,Jessica Ali,70,Middle age,F,2025-05-01,2024-09-17,226,Willie Rose,Cardiology,85.81949999999999,1
+445,1445,Jessica Castillo,37,Adult,F,2025-09-18,2024-11-17,305,Bryan Newton,Cardiology,511.1847,0
+446,1446,Jessica Heath,86,Senior,X,2025-06-25,2024-04-24,427,Sherri Long,Cardiology,71.8029,1
+447,1447,Jessica Johnson,66,Middle age,M,2025-11-22,2025-09-07,76,Kevin Weaver,Neurology,224.89650000000003,1
+448,1448,Jessica Maldonado DDS,25,Young adult,M,2025-04-21,2024-09-20,213,Kelly Thomas,Cardiology,224.38350000000003,0
+449,1449,Jessica Murray,20,Young adult,M,2025-12-29,2025-06-23,189,James Harris,General,1.8437999999999999,0
+450,1450,Jessica Pitts,72,Senior,F,2026-03-10,2025-10-22,139,Miguel Hayes,Orthopedics,544.8735,0
+451,1451,Jessica Price,31,Young adult,M,2025-10-27,2025-03-12,229,Justin Rice,Orthopedics,574.2126,1
+452,1452,Jessica Rodriguez,18,,M,2025-04-21,2024-09-04,229,Jeffrey Martin,Neurology,4.1185,1
+453,1453,Jessica Smith,66,Middle age,F,2025-08-20,2025-03-08,165,Crystal Mack,Neurology,241.51399845559845,1
+454,1454,Jessica Williams,49,Adult,F,2025-06-21,2024-10-08,256,Corey King,General,149.094,0
+455,1455,Jessica Wilson,72,Senior,F,2026-03-20,2024-07-13,615,Sharon Nash,Orthopedics,511.50059999999996,0
+456,1456,Jill Mcconnell,81,Senior,F,2025-03-28,2025-02-16,40,Jessica Miller,Cardiology,4.753500000000001,0
+457,1457,Joanna Tucker,18,,M,2026-03-22,2024-10-05,533,Andrew Gray,Neurology,114.3315,0
+458,1458,Jocelyn Strickland,22,Young adult,M,2025-04-30,2024-07-10,294,Vincent Kemp,Cardiology,214.98587589285714,0
+459,1459,Jodi Floyd,35,Young adult,M,2025-08-19,2025-06-15,65,Brett Arnold,General,4.5811,0
+460,1460,Joe Sharp,78,Senior,M,2025-09-26,2025-08-31,26,Kimberly Fields,General,239.6478689497717,1
+461,1461,Joel Marshall,55,Middle age,M,2025-12-23,2025-02-23,303,Victoria Garcia,Neurology,358.956,0
+462,1462,John Anderson,60,Middle age,M,2026-01-27,2026-01-18,9,Paul Blackburn,Cardiology,296.5014,0
+463,1463,John Campbell,67,Middle age,F,2026-02-10,2024-06-21,599,Tanya Baxter,Orthopedics,242.42107661290325,0
+464,1464,John Gallagher,57,Middle age,F,2025-06-28,2024-11-02,238,Kara Austin,Cardiology,232.3737,1
+465,1465,John Gonzalez,44,Adult,M,2026-01-19,2024-06-14,584,Richard Medina,Orthopedics,333.0522,0
+466,1466,John Hensley,35,Young adult,M,2025-09-23,2024-07-15,435,Paul Tate,Orthopedics,2.8907,1
+467,1467,John Johnson,81,Senior,X,2025-04-23,2024-12-30,114,Steve Bush,General,162.94,0
+468,1468,John Marsh,33,Young adult,M,2025-05-04,2024-06-04,334,Michael Wright,General,550.395,1
+469,1469,John Nguyen,23,Young adult,M,2025-10-05,2025-03-20,199,David Robertson,General,239.6478689497717,0
+470,1470,John Rich,48,Adult,F,2025-06-20,2024-09-05,288,Jennifer Johnston,General,239.6478689497717,1
+471,1471,John Walsh,63,Middle age,M,2025-08-13,2024-09-03,344,Wanda Cox,Orthopedics,119.55600000000001,0
+472,1472,John Yang,37,Adult,M,2025-09-15,2024-05-09,494,Anthony Jensen,Orthopedics,442.77,0
+473,1473,Jon Berry,27,Young adult,M,2025-11-02,2024-04-25,556,Heather Foster,General,400.491,1
+474,1474,Jonathan Drake,76,Senior,M,2026-01-06,2025-03-16,296,Andrew Johnson,Cardiology,443.988,1
+475,1475,Jonathan Fernandez,40,Adult,M,2025-12-03,2025-09-08,86,Luis Nolan,Orthopedics,2.5273,1
+476,1476,Jonathan Howell,63,Middle age,M,2025-08-12,2024-11-03,282,Darryl Case,Orthopedics,4.2118,1
+477,1477,Jonathan Wood,74,Senior,F,2025-05-23,2024-12-26,148,Jon Duarte,Orthopedics,4.8607000000000005,1
+478,1478,Jordan Camacho Jr.,21,Young adult,M,2025-11-12,2025-06-30,135,Alexis Carter,Neurology,186.24,1
+479,1479,Jordan Hudson,74,Senior,M,2025-06-17,2024-04-25,418,Linda Martin,Cardiology,556.0658999999999,1
+480,1480,Jose Bauer,37,Adult,F,2025-10-17,2025-04-07,193,Reginald Barrett,Orthopedics,457.24769999999995,0
+481,1481,Jose Bryant,49,Adult,M,2025-05-24,2024-12-10,165,Ryan Lopez,Orthopedics,473.05350000000004,0
+482,1482,Joseph Banks,36,Adult,F,2025-12-05,2024-06-15,538,Susan Kelley,Neurology,108.6,0
+483,1483,Joseph Church,87,Senior,M,2025-08-05,2025-02-03,183,Ricky Velazquez,Orthopedics,0.6881,1
+484,1484,Joseph Hart,69,Middle age,F,2025-09-04,2025-02-16,200,Ralph Fernandez,General,382.0986,0
+485,1485,Joseph Irwin,29,Young adult,M,2025-07-27,2025-06-08,49,Jacob Kerr,General,279.09900000000005,1
+486,1486,Joseph Mcmillan,67,Middle age,F,2025-05-20,2025-03-20,61,Frederick Nielsen,Orthopedics,3.0858999999999996,0
+487,1487,Joseph Pace,67,Middle age,M,2025-11-20,2025-08-02,110,Lydia Baker,Neurology,3.3813,1
+488,1488,Joseph Rodriguez,69,Middle age,F,2025-05-25,2024-06-15,344,Douglas Foster,Cardiology,110.4129,1
+489,1489,Joshua Sanchez DDS,79,Senior,F,2025-03-29,2024-06-27,275,George Flores,Orthopedics,208.2915,1
+490,1490,Joshua Sanford,57,Middle age,F,2025-06-20,2025-02-13,127,Tara Montoya,Neurology,186.61,1
+491,1491,Joshua Wallace,60,Middle age,X,2025-12-26,2024-05-22,583,Melissa Price,General,486.81359999999995,0
+492,1492,Judy Avila,21,Young adult,F,2025-10-19,2025-08-02,78,Morgan Ramos,Orthopedics,3.3043,1
+493,1493,Judy Blair,84,Senior,F,2025-09-08,2025-05-16,115,Kevin Benton,Orthopedics,1.7563,0
+494,1494,Judy Nguyen,29,Young adult,M,2025-05-27,2024-10-23,216,Michelle Ortega,General,429.14,1
+495,1495,Julia Mckenzie,30,Young adult,M,2025-08-13,2025-02-10,184,Sarah Scott,Cardiology,107.56979999999999,1
+496,1496,Justin Caldwell,57,Middle age,F,2025-05-09,2024-12-18,142,Ronnie Miller,Orthopedics,3.8369,0
+497,1497,Justin Ortiz,60,Middle age,M,2025-11-08,2025-03-30,223,Russell Myers,Cardiology,316.25100000000003,0
+498,1498,Justin White,82,Senior,M,2026-01-04,2025-04-16,263,Jose Jackson,Neurology,2.0305,0
+499,1499,Justin Zimmerman,61,Middle age,M,2025-11-05,2025-09-20,46,Tammy Thomas,Cardiology,330.8715,0
+500,1500,Kara Schneider,81,Senior,F,2025-07-21,2024-07-08,378,Ivan Russo,General,615.951,1
+501,1501,Kara Stewart,63,Middle age,F,2025-04-21,2025-03-06,46,Becky Sanchez,Neurology,339.7212,0
+502,1502,Kara White,59,Middle age,F,2026-03-14,2025-01-26,412,Kyle Dawson,Orthopedics,369.29879999999997,0
+503,1503,Karen Carter,22,Young adult,F,2026-02-28,2025-03-22,343,Chase Clark,Neurology,4.0133,1
+504,1504,Karen Myers,89,Senior,F,2025-07-20,2024-06-12,403,David Wright,Neurology,434.8773,0
+505,1505,Karen Walker,68,Middle age,F,2026-03-07,2024-04-24,682,Natalie White,General,82.88,1
+506,1506,Kari Jackson,34,Young adult,F,2025-10-01,2024-10-13,353,Jeremiah Rose,Orthopedics,3.7607999999999997,0
+507,1507,Karla Bush,66,Middle age,X,2025-05-23,2024-08-14,282,Victor Hernandez,Cardiology,1.3585,1
+508,1508,Katelyn Byrd,32,Young adult,M,2025-03-30,2024-05-03,331,Barbara Chavez,General,283.24350000000004,1
+509,1509,Katelyn Miller,23,Young adult,F,2026-02-19,2024-09-16,521,Andrea Cruz,Orthopedics,382.34,1
+510,1510,Katelyn Miller,78,Senior,M,2025-12-19,2024-11-25,389,Justin Chen,Cardiology,2.7494,0
+511,1511,Katelyn Smith,19,Young adult,X,2025-10-16,2025-09-21,25,Robert Henry,Neurology,481.44,0
+512,1512,Katherine Olson,57,Middle age,F,2025-11-04,2025-03-21,228,Larry Roberts,Cardiology,273.61800000000005,0
+513,1513,Katherine Rios,23,Young adult,F,2025-12-24,2025-01-05,353,Elizabeth Foster,Orthopedics,265.67,0
+514,1514,Katherine Rogers,50,Adult,F,2025-11-19,2025-01-15,308,Morgan Edwards,Orthopedics,431.21,1
+515,1515,Katherine Wilson,44,Adult,F,2025-12-01,2024-07-31,488,Mitchell Sims,Orthopedics,203.3,1
+516,1516,Kathleen Jones,49,Adult,M,2025-06-12,2024-08-11,305,Diana Baker,Cardiology,1.3543,0
+517,1517,Kathleen Oneal,71,Senior,M,2025-05-17,2024-07-28,293,Jacob Andrade,Orthopedics,74.36,1
+518,1518,Kathleen Porter,66,Middle age,M,2026-01-28,2025-05-06,267,Christine Calhoun,Neurology,367.06,0
+519,1519,Kathryn Bell,24,Young adult,F,2025-06-13,2024-06-06,372,Andre Carter,Cardiology,597.672,0
+520,1520,Kathryn Green,86,Senior,X,2025-05-01,2024-08-19,255,Robert Moreno,Cardiology,4.1578,1
+521,1521,Kathy Banks,39,Adult,M,2025-11-25,2025-07-26,122,Anna Yoder,General,3.1904000000000003,1
+522,1522,Kathy Rhodes,72,Senior,M,2025-06-16,2024-08-23,297,Rachel Bright,Neurology,175.26,1
+523,1523,Katie Mcdaniel,76,Senior,F,2026-01-10,2025-07-31,163,Aaron Perkins,General,136.77,1
+524,1524,Kayla Berger,29,Young adult,F,2025-08-05,2024-09-27,312,Todd Oconnor,Orthopedics,242.42107661290325,1
+525,1525,Kayla Drake,54,Middle age,F,2025-12-27,2025-05-27,214,Jennifer Long DDS,Orthopedics,412.07,0
+526,1526,Kayla Mccormick,84,Senior,F,2026-03-16,2024-12-04,467,Robert Burton,Neurology,244.68,1
+527,1527,Kayla Williams,63,Middle age,M,2025-10-02,2024-06-06,483,Aaron Cooper,General,2.1786000000000003,0
+528,1528,Keith Becker,60,Middle age,F,2025-11-07,2024-08-28,436,Kristopher Collier,General,239.6478689497717,1
+529,1529,Keith Douglas,49,Adult,M,2025-09-16,2025-05-02,137,Dawn Browning,Orthopedics,242.42107661290325,0
+530,1530,Kelli Page,25,Young adult,M,2025-10-08,2025-03-24,198,Stephanie Wall,Orthopedics,248.33,0
+531,1531,Kelly Ayers,53,Middle age,M,2026-02-16,2025-04-04,318,Justin Taylor,Neurology,443.75,1
+532,1532,Kelly Hess,42,Adult,F,2025-05-19,2024-11-07,193,Seth Benson,General,2.6893000000000002,0
+533,1533,Kelly Hodge,55,Middle age,M,2025-10-15,2025-05-28,140,Terry Jones,Orthopedics,236.37150000000003,0
+534,1534,Kelly Mason,65,Middle age,F,2026-02-17,2024-05-31,627,Laura Edwards,Cardiology,205.16,1
+535,1535,Kelly Mcknight,87,Senior,M,2026-02-03,2025-07-12,206,Jerry Lopez,Neurology,197.37,1
+536,1536,Kelly Morris,40,Adult,M,2025-08-11,2024-08-02,374,Matthew Mccann,Orthopedics,2.5877999999999997,0
+537,1537,Kelly Olsen,72,Senior,M,2025-08-27,2025-02-13,195,Christopher Bryant,Cardiology,340.713,1
+538,1538,Kelsey Collins,19,Young adult,F,2025-04-24,2024-10-08,198,Gabrielle Collins,Neurology,455.75,0
+539,1539,Kelsey Johnson,29,Young adult,M,2026-01-28,2024-12-03,421,Mallory Torres,Neurology,357.0075,0
+540,1540,Kelsey Kelly,76,Senior,M,2025-06-19,2025-04-30,50,Denise Hall,Cardiology,391.22459999999995,0
+541,1541,Kelsey Rice,20,Young adult,M,2025-11-16,2024-11-19,362,Darren Jensen,General,190.44,0
+542,1542,Kelsey Shaffer,56,Middle age,M,2025-04-20,2024-12-07,134,Christina Simmons,Neurology,106.5285,1
+543,1543,Kendra Jones,85,Senior,F,2025-07-30,2024-10-14,289,Karen Grimes,Cardiology,101.59,1
+544,1544,Kenneth Cox,78,Senior,M,2026-01-22,2025-06-07,229,Brian Walker,General,123.28,0
+545,1545,Kenneth Dixon,68,Middle age,M,2025-08-19,2025-01-31,200,Sandra Sloan,Orthopedics,470.80799999999994,1
+546,1546,Kenneth Fox,86,Senior,F,2025-10-13,2024-08-12,427,Kimberly Sullivan,General,85.53,1
+547,1547,Kenneth Graham,34,Young adult,F,2025-10-31,2025-03-19,226,Wayne Graham,Neurology,142.32,0
+548,1548,Kenneth Jenkins,49,Adult,F,2025-05-20,2024-09-12,250,Tanya Eaton,General,501.57899999999995,1
+549,1549,Kevin Jackson,56,Middle age,M,2025-06-16,2024-05-31,381,David Love,Cardiology,157.36,0
+550,1550,Kevin Johnson,18,,F,2025-10-25,2024-09-03,417,Lance Smith,Neurology,2.833,0
+551,1551,Kevin Peters,19,Young adult,F,2025-07-23,2025-04-28,86,Nancy Wilson,General,113.23259999999999,0
+552,1552,Kevin Thompson,59,Middle age,F,2025-05-01,2024-10-02,211,Lynn Cruz,General,1.5671000000000002,1
+553,1553,Kim Allen,35,Young adult,F,2025-12-30,2025-03-31,274,Nancy Levine MD,Orthopedics,401.90669999999994,1
+554,1554,Kim Morris,56,Middle age,F,2025-12-20,2025-06-24,179,Michael Morris,General,197.66,0
+555,1555,Kimberly Adkins,77,Senior,M,2025-12-15,2024-08-19,483,Tamara Rivera,Cardiology,214.98587589285714,0
+556,1556,Kimberly Barnett,69,Middle age,M,2025-10-04,2025-07-31,65,William Bryan,General,559.2366,1
+557,1557,Kimberly Conner,86,Senior,F,2026-02-18,2024-10-12,494,Steven Holland,Cardiology,643.9365,1
+558,1558,Kimberly Diaz,47,Adult,F,2025-06-19,2024-05-07,408,David Guzman,Orthopedics,197.72,1
+559,1559,Kimberly Fitzpatrick,65,Middle age,F,2025-10-07,2024-12-09,302,Mark Moore,Orthopedics,242.42107661290325,0
+560,1560,Kimberly Goodman,22,Young adult,F,2025-09-12,2024-09-20,357,Luis Kim,General,410.7168,1
+561,1561,Kimberly Guzman,31,Young adult,F,2025-11-18,2025-04-02,230,Kristin Reeves,General,239.6478689497717,1
+562,1562,Kimberly Heath,19,Young adult,M,2025-10-19,2025-09-19,30,Amber Avila,Orthopedics,170.5275,1
+563,1563,Kimberly Hill,37,Adult,X,2025-05-10,2024-08-26,257,Kenneth Long,Neurology,1.9481000000000002,0
+564,1564,Kimberly Lee,88,Senior,X,2025-10-19,2024-11-16,337,Vanessa Ramirez,Neurology,592.3935,0
+565,1565,Kimberly Meyer,35,Young adult,M,2025-12-17,2024-04-27,599,Christopher Perez,Orthopedics,4.4133,0
+566,1566,Kimberly Miller,59,Middle age,F,2025-04-25,2024-04-30,360,Anna Jennings,Cardiology,352.3635,1
+567,1567,Kimberly Morrison,34,Young adult,F,2026-03-04,2024-09-11,539,Brian Young,Orthopedics,248.31,1
+568,1568,Kimberly Robinson,26,Young adult,F,2026-03-04,2025-12-28,66,Michael Wright,Cardiology,0.7167,0
+569,1569,Kimberly Watson,60,Middle age,F,2026-01-11,2025-07-25,170,Joseph Meyers,Neurology,241.51399845559845,0
+570,1570,Kristin Combs,38,Adult,F,2025-10-28,2024-12-12,320,Frank Anderson,General,2.7932,0
+571,1571,Kristin Terry,50,Adult,M,2025-08-18,2025-05-17,93,Michael Brown,Neurology,91.7595,1
+572,1572,Kristine Logan,53,Middle age,F,2025-06-29,2024-09-13,289,Regina Cox,Neurology,562.1265,0
+573,1573,Kyle Barnes Jr.,21,Young adult,M,2025-04-18,2024-09-24,206,Donna Peters,General,156.1,1
+574,1574,Kyle Gibbs,58,Middle age,F,2026-02-25,2024-10-29,484,Christopher Guzman,Neurology,335.826,0
+575,1575,Kyle Jones,29,Young adult,M,2025-11-01,2025-03-17,229,Cheryl Mullins,Neurology,366.49,0
+576,1576,Kyle Jones,52,Middle age,M,2025-10-31,2024-09-01,425,Sara Morse,Neurology,241.51399845559845,0
+577,1577,Lance Hobbs,59,Middle age,M,2025-10-10,2024-08-18,418,Mr. James Brown,General,143.32,0
+578,1578,Laura Chan,49,Adult,F,2026-02-17,2026-01-16,32,Reginald Miller,Cardiology,177.93,0
+579,1579,Laura Ford,36,Adult,X,2025-05-27,2024-12-02,176,Kyle Evans,Orthopedics,251.7885,0
+580,1580,Laura Lopez,25,Young adult,M,2025-10-06,2024-06-13,480,Julie Phillips,Cardiology,4.6457,0
+581,1581,Lauren Burns,23,Young adult,F,2025-04-12,2024-09-13,211,Amy Baxter,Cardiology,370.062,0
+582,1582,Lauren Gardner,43,Adult,F,2025-04-25,2025-04-01,24,Alison Castro,Neurology,1.864,0
+583,1583,Lawrence Ford,89,Senior,F,2025-07-09,2025-01-03,187,Randall Watts,Neurology,196.326,1
+584,1584,Lawrence Rios,62,Middle age,F,2026-01-10,2024-12-11,395,Christopher Lee,Neurology,522.99,0
+585,1585,Leon Anderson,63,Middle age,M,2025-11-28,2024-09-24,430,Mary Chandler,Neurology,427.62,1
+586,1586,Leonard Clark,56,Middle age,F,2026-02-28,2025-02-08,385,Robert Foster,Cardiology,0.688,1
+587,1587,Leslie Medina,18,,F,2025-08-17,2025-06-25,53,Matthew Morse,Orthopedics,662.7555000000001,1
+588,1588,Leslie Newman,80,Senior,F,2025-05-11,2024-10-22,201,Lindsey Mendoza,Cardiology,1.2535,0
+589,1589,Leslie Silva,26,Young adult,M,2025-06-07,2024-12-09,180,Thomas Brandt,Orthopedics,340.25,1
+590,1590,Linda Miller,28,Young adult,F,2026-03-08,2024-12-08,455,Patricia White,Orthopedics,242.42107661290325,0
+591,1591,Linda Murphy,63,Middle age,M,2026-02-17,2026-01-11,37,Margaret Montoya,Cardiology,1.7668000000000001,0
+592,1592,Linda Nicholson,24,Young adult,F,2025-08-19,2025-05-10,101,Melissa Daniels,Neurology,425.91,1
+593,1593,Linda Ryan,76,Senior,M,2025-10-31,2024-06-27,491,Sandra Johns,General,166.2255,1
+594,1594,Lindsay Harris,28,Young adult,M,2025-10-26,2025-02-22,246,Ryan Hughes,Orthopedics,519.9245999999999,1
+595,1595,Lindsay Rodriguez,39,Adult,M,2025-10-23,2025-07-18,97,Troy Lynch,Orthopedics,242.42107661290325,0
+596,1596,Lindsay Shaw,43,Adult,F,2025-09-17,2024-05-09,496,Julia Mcmillan,Orthopedics,656.0055000000001,0
+597,1597,Lindsey Green,28,Young adult,F,2025-06-02,2024-06-21,346,James Fleming,Neurology,270.71,0
+598,1598,Lindsey Sullivan MD,66,Middle age,M,2025-04-08,2025-01-02,96,David Barnett,Orthopedics,2.9047000000000005,1
+599,1599,Lisa Cameron,37,Adult,M,2025-08-14,2025-08-11,3,Karen Hunt,Cardiology,322.3935,0
+600,1600,Lisa Fisher,44,Adult,X,2025-07-16,2025-06-12,34,Karen Martin,Neurology,417.38,1
+601,1601,Lisa Hill,68,Middle age,F,2025-06-23,2024-10-24,242,Mia Boyd,Cardiology,169.01,0
+602,1602,Lisa Smith,40,Adult,F,2025-10-30,2024-07-31,456,Daniel Beck,Orthopedics,4.4941,0
+603,1603,Logan Gonzalez,81,Senior,X,2026-02-17,2025-04-03,320,John Anderson,Neurology,244.8459,1
+604,1604,Logan Sampson,64,Middle age,M,2025-12-31,2025-04-19,256,Tiffany Melendez,Orthopedics,1.5403,1
+605,1605,Loretta Richardson,29,Young adult,F,2025-08-22,2025-04-25,119,Shane Jackson,Neurology,1.2034,1
+606,1606,Lori Dean,40,Adult,F,2025-11-05,2024-08-15,447,Theresa Williams,Orthopedics,3.1226,0
+607,1607,Lori Henderson,50,Adult,F,2025-06-05,2024-12-19,168,Terri Stewart,General,4.9631,0
+608,1608,Lori Montgomery,18,,M,2026-02-26,2025-09-07,172,Christy Fisher,Orthopedics,117.12,1
+609,1609,Louis Craig,49,Adult,F,2025-04-13,2024-10-05,190,Rachel Wood,Orthopedics,4.8493,0
+610,1610,Louis Thomas,52,Middle age,F,2025-09-07,2024-04-23,502,Michelle Carter,Cardiology,607.8240000000001,1
+611,1611,Lucas Ray,21,Young adult,F,2026-02-12,2025-02-07,370,Carrie Larsen,Neurology,187.09650000000002,1
+612,1612,Luis Rodriguez,50,Adult,M,2025-11-23,2025-09-24,60,Samantha Bass MD,Orthopedics,294.58,1
+613,1613,Luke Brady,78,Senior,M,2025-10-09,2025-06-24,107,Adam Hall,General,500.7366,1
+614,1614,Luke Price,23,Young adult,F,2025-12-13,2025-06-18,178,Virginia Lang,Orthopedics,2.6039999999999996,1
+615,1615,Lydia Davis,30,Young adult,F,2025-12-03,2024-05-18,564,Brian Rodriguez,Neurology,335.5443,1
+616,1616,Lydia Russell,67,Middle age,M,2025-11-16,2024-12-31,320,Matthew Clark,General,644.6655,1
+617,1617,Mackenzie Walker,56,Middle age,F,2025-03-27,2024-05-20,311,Jenny Wright,Orthopedics,335.95,1
+618,1618,Madison Wilson,23,Young adult,M,2026-01-08,2024-11-29,405,Ryan Steele,Cardiology,269.9541,0
+619,1619,Malik Robinson,77,Senior,F,2025-10-21,2024-07-18,460,Amber Little,General,2.8077,0
+620,1620,Mallory Martin,23,Young adult,M,2025-10-27,2025-06-22,127,David Whitney,Cardiology,4.3795,1
+621,1621,Mandy Smith,64,Middle age,M,2025-04-14,2025-02-04,69,Brian Olson,Neurology,2.4605,1
+622,1622,Manuel Becker,66,Middle age,F,2025-05-17,2024-08-29,261,Jacob Patel,Neurology,139.99,0
+623,1623,Maria Boyd,69,Middle age,F,2025-10-02,2025-02-23,221,Mike Miller,Cardiology,544.0032,1
+624,1624,Maria Douglas,86,Senior,M,2026-02-17,2026-01-15,33,Daniel Evans,Orthopedics,572.8788,1
+625,1625,Maria Harris,24,Young adult,F,2025-07-19,2024-08-29,324,Henry Hall,Orthopedics,502.87500000000006,0
+626,1626,Maria Williams,22,Young adult,M,2025-08-17,2025-01-05,224,Brandi Thomas,Orthopedics,255.3795,0
+627,1627,Mariah Davis,22,Young adult,F,2025-10-24,2025-01-06,291,Douglas Ford,Orthopedics,515.187,0
+628,1628,Marissa Davidson,81,Senior,F,2025-04-13,2024-12-03,131,Philip Davis,Cardiology,674.5545000000001,1
+629,1629,Marissa Randall,30,Young adult,M,2025-12-23,2024-06-12,559,Kent Cannon,Neurology,2.9912,1
+630,1630,Mark Bowers,19,Young adult,M,2025-05-11,2025-04-02,39,Antonio Bryant,Neurology,116.69,1
+631,1631,Mark Daniels,75,Senior,M,2025-12-14,2024-05-30,563,Kimberly Pierce,Orthopedics,255.56,1
+632,1632,Mark Harrison,24,Young adult,F,2025-10-06,2024-06-13,480,Jennifer Hernandez,Orthopedics,181.87649999999996,1
+633,1633,Mark Reeves,30,Young adult,F,2026-01-08,2025-08-19,142,Mark Hill,Cardiology,70.7,1
+634,1634,Martha Zavala,58,Middle age,M,2026-01-23,2024-04-14,649,Penny Freeman,Cardiology,206.61750000000004,1
+635,1635,Mary Foster,42,Adult,M,2025-04-20,2024-10-09,193,Terry Welch,Cardiology,518.4621,1
+636,1636,Mary Garcia,54,Middle age,M,2025-10-21,2025-04-11,193,Brianna Ortega,General,252.53,1
+637,1637,Mary Manning,48,Adult,F,2026-01-23,2025-10-13,102,William Harris,Orthopedics,248.84,0
+638,1638,Mary Moon,36,Adult,M,2025-10-13,2025-01-08,278,Ernest Rodriguez,Cardiology,106.80930000000001,0
+639,1639,Mary Werner,32,Young adult,X,2025-07-22,2024-04-12,466,Bonnie Walker,Orthopedics,69.13,1
+640,1640,Mary Wilson,27,Young adult,F,2025-07-04,2025-03-17,109,Misty Higgins,Orthopedics,421.57,1
+641,1641,Mason Morgan,53,Middle age,M,2025-04-21,2024-08-25,239,James Cobb,General,2.9903,0
+642,1642,Matthew Buckley,57,Middle age,M,2025-09-07,2024-10-04,338,Ryan Collins,General,4.7681000000000004,0
+643,1643,Matthew Cox,88,Senior,M,2026-01-22,2024-04-07,655,Alexander Horton,General,1.002,0
+644,1644,Matthew Cross,78,Senior,M,2025-07-31,2025-06-24,37,Connie Wood,General,149.8,1
+645,1645,Matthew Davis,54,Middle age,M,2025-09-20,2024-06-24,453,Megan Lopez,Cardiology,1.1940000000000002,0
+646,1646,Matthew Gutierrez,21,Young adult,M,2026-02-08,2025-05-14,270,Lisa Smith,General,361.8927,0
+647,1647,Matthew Herrera,74,Senior,F,2025-09-01,2025-05-26,98,Cody Murray,General,4.7348,1
+648,1648,Matthew Johnson,22,Young adult,M,2025-12-17,2025-08-06,133,John Moran,Orthopedics,175.6755,0
+649,1649,Matthew Lloyd,58,Middle age,M,2026-01-17,2025-07-21,180,Timothy Morgan,Cardiology,286.39259999999996,0
+650,1650,Matthew Moore,63,Middle age,F,2026-03-02,2025-03-04,363,Erica Riley,General,1.1632,1
+651,1651,Matthew Rivera,31,Young adult,M,2025-07-03,2025-04-26,68,Theodore Bean,Orthopedics,299.3094,0
+652,1652,Matthew Valdez,60,Middle age,M,2026-02-19,2024-11-13,463,Rachel Terry,Neurology,123.8895,1
+653,1653,Max Martinez,63,Middle age,M,2025-09-21,2024-11-05,320,Joshua Sellers,Cardiology,3.5202999999999998,1
+654,1654,Mckenzie Mccarty,38,Adult,F,2025-05-19,2024-07-20,303,Larry Smith,Orthopedics,92.286,0
+655,1655,Megan Avery,73,Senior,F,2026-01-08,2024-08-13,513,Michael Arroyo Jr.,General,96.48,1
+656,1656,Megan Edwards,69,Middle age,M,2025-10-08,2025-05-19,142,Eric Arellano,Neurology,514.1682,0
+657,1657,Megan Mitchell,69,Middle age,M,2025-11-27,2024-05-18,558,Desiree Giles,Orthopedics,410.8689,0
+658,1658,Megan Murphy,35,Young adult,X,2025-04-19,2025-04-11,8,Kevin Coleman,Cardiology,3.595,0
+659,1659,Megan Russell,84,Senior,M,2025-12-26,2025-08-07,141,Autumn Hill,Cardiology,359.17,1
+660,1660,Megan Strickland,69,Middle age,F,2025-05-23,2024-06-12,345,Brandon Lewis,Orthopedics,402.78419999999994,1
+661,1661,Megan Williams,51,Middle age,M,2025-12-11,2025-10-19,53,Melissa Khan,Neurology,4.5612,0
+662,1662,Meghan Evans,79,Senior,F,2025-11-21,2025-09-11,71,Courtney Yang,Orthopedics,337.15,0
+663,1663,Meghan Sanchez,58,Middle age,M,2025-04-06,2024-08-05,244,Judith Watson,Neurology,330.3612,1
+664,1664,Melanie Gibson,50,Adult,M,2025-08-17,2024-09-23,328,Alison Stanton,Orthopedics,268.14,1
+665,1665,Melanie Hernandez,19,Young adult,F,2026-02-22,2025-06-12,255,Adam Anderson,Orthopedics,445.97,1
+666,1666,Melanie Lee,31,Young adult,M,2025-10-01,2024-10-25,341,Andrea Kennedy,Cardiology,596.5515,0
+667,1667,Melissa Allen,35,Young adult,F,2025-10-29,2025-06-13,138,Rodney Lopez,General,604.4895,0
+668,1668,Melissa Berry MD,75,Senior,M,2026-02-23,2024-10-16,495,Kathryn Hooper,Cardiology,625.0095000000001,0
+669,1669,Melissa Brown,28,Young adult,M,2025-04-20,2024-08-01,262,Bill Brown,Orthopedics,81.6192,1
+670,1670,Melissa Lane,81,Senior,F,2025-06-01,2024-08-19,286,Vanessa Pittman,Cardiology,143.44199999999998,0
+671,1671,Melissa Miranda,77,Senior,M,2025-06-03,2024-05-18,381,Jennifer Jones,Orthopedics,95.1345,1
+672,1672,Melissa Ramirez,34,Young adult,M,2025-09-10,2024-10-30,315,Amber Clayton,Neurology,225.693,1
+673,1673,Melissa Richmond,33,Young adult,M,2025-06-11,2025-02-19,112,Jasmin Holmes,Neurology,387.75,1
+674,1674,Melissa Vaughn,46,Adult,M,2026-03-26,2025-06-21,278,Vickie Johnson,Cardiology,351.60839999999996,0
+675,1675,Melissa Wagner,59,Middle age,M,2025-09-18,2024-06-15,460,Megan Garcia,Neurology,2.195,1
+676,1676,Melvin Bowers,88,Senior,F,2025-12-15,2025-11-14,31,Robin Diaz,Orthopedics,221.67,1
+677,1677,Michael Allen,64,Middle age,F,2025-07-29,2024-06-08,416,Brian Osborne DVM,Orthopedics,250.89479999999998,0
+678,1678,Michael Bradley,86,Senior,F,2025-06-11,2024-09-28,256,Carl Gomez,Orthopedics,344.12850000000003,0
+679,1679,Michael Davis,36,Adult,F,2026-01-11,2025-09-30,103,Karen Griffin,Cardiology,153.153,0
+680,1680,Michael Espinoza,55,Middle age,F,2025-04-29,2024-12-06,144,Amber King,Neurology,486.5265,0
+681,1681,Michael Evans,65,Middle age,M,2025-03-28,2025-01-04,83,Manuel Vargas,Orthopedics,356.4639,0
+682,1682,Michael Garcia,61,Middle age,F,2026-03-04,2025-08-10,206,Barbara Mack,Neurology,362.87549999999993,1
+683,1683,Michael Glenn,60,Middle age,M,2025-11-13,2025-06-23,143,Robert Martinez,Cardiology,99.19,0
+684,1684,Michael Gonzales,86,Senior,M,2025-12-23,2024-11-24,394,Richard Torres,General,4.9164,0
+685,1685,Michael Hamilton,29,Young adult,F,2025-09-03,2024-07-27,403,Angie Smith,General,144.90900000000002,0
+686,1686,Michael Heath,88,Senior,M,2025-10-29,2025-03-22,221,Benjamin Brown,Cardiology,2.5658999999999996,1
+687,1687,Michael Levine,72,Senior,F,2025-08-11,2024-04-01,497,Janet Ray,Neurology,288.02250000000004,1
+688,1688,Michael Mack,70,Middle age,M,2025-09-21,2024-11-06,319,John Larsen II,Orthopedics,480.88169999999997,1
+689,1689,Michael Marquez,59,Middle age,M,2025-07-28,2024-07-19,374,Mr. Curtis Ortiz,Cardiology,237.48659999999998,0
+690,1690,Michael Newman MD,45,Adult,F,2025-11-29,2025-08-31,90,Ronald Santos,General,343.21,0
+691,1691,Michael Short,83,Senior,M,2026-01-03,2024-12-21,378,Charles Hess,Orthopedics,483.19,1
+692,1692,Michael Sullivan,63,Middle age,M,2025-07-09,2024-07-31,343,Angela Thomas,Orthopedics,3.1888,1
+693,1693,Michael Sullivan,65,Middle age,F,2025-07-04,2024-04-15,445,Anthony Mccoy,Neurology,434.95,0
+694,1694,Michael Walsh,69,Middle age,F,2025-05-08,2025-01-24,104,Tammy Watts,Neurology,158.139,1
+695,1695,Michael Watkins,35,Young adult,M,2025-07-06,2025-03-05,123,Brian Deleon,General,422.60400000000004,1
+696,1696,Michael White,32,Young adult,M,2026-03-11,2025-07-23,231,Seth Ramirez,General,300.71,1
+697,1697,Michele Green,48,Adult,F,2025-06-30,2025-01-24,157,Nancy Hernandez,Orthopedics,0.8858,0
+698,1698,Michele Park,46,Adult,F,2026-01-10,2024-11-01,435,Robert Sparks,General,534.897,0
+699,1699,Michele Perry,90,Senior,F,2025-08-07,2024-12-23,227,Leslie Gomez,Neurology,92.90969999999999,0
+700,1700,Michelle Bradford,31,Young adult,F,2026-03-17,2025-08-02,227,Robert Williams,Cardiology,491.0958,1
+701,1701,Michelle Edwards,30,Young adult,F,2025-12-03,2025-07-27,129,Charles Harvey,Orthopedics,326.97,1
+702,1702,Michelle Harris,56,Middle age,F,2025-11-07,2024-12-06,336,Matthew Garrett,Orthopedics,152.9424,1
+703,1703,Michelle Hill,82,Senior,M,2025-12-08,2024-04-07,610,Rachel Sanchez,General,3.7184,1
+704,1704,Michelle Johnson,24,Young adult,M,2025-12-19,2025-07-01,171,Jennifer Brooks,General,576.7866,1
+705,1705,Michelle King,54,Middle age,M,2025-05-07,2024-06-22,319,Anthony Hughes,General,451.971,0
+706,1706,Michelle Mcclain,45,Adult,F,2025-11-11,2025-06-10,154,Mrs. Amy Miller,Cardiology,1.8529,0
+707,1707,Michelle Payne,87,Senior,M,2025-07-02,2024-11-25,219,Cassandra Bishop,Orthopedics,139.7097,0
+708,1708,Miss Christine Lopez,75,Senior,F,2025-11-30,2025-06-05,178,Cynthia Turner,Cardiology,414.58,1
+709,1709,Miss Crystal Davis DDS,25,Young adult,F,2025-07-07,2024-06-06,396,Christopher Hayes,General,662.2425000000001,1
+710,1710,Miss Stacey Weaver,75,Senior,M,2025-04-14,2024-06-20,298,Rachel Wilson,Orthopedics,4.4241,0
+711,1711,Misty Wells,64,Middle age,M,2025-07-31,2024-08-23,342,Debra Booker,Neurology,477.63000000000005,1
+712,1712,Molly Hayden,75,Senior,X,2026-01-06,2025-02-22,318,Brian Chambers,General,413.937,0
+713,1713,Monica Horton,53,Middle age,X,2025-10-11,2024-03-30,560,Kayla Stein,Neurology,277.21,1
+714,1714,Monica Jones,18,,M,2025-10-17,2024-05-07,528,Cheryl Bailey,Cardiology,3.6394,0
+715,1715,Monica Mcclure,84,Senior,F,2025-05-24,2024-05-10,379,Martha Byrd,General,3.4794,1
+716,1716,Monique Daniels,25,Young adult,F,2026-03-08,2025-11-11,117,Alexander Brown,General,316.64,1
+717,1717,Morgan Torres,83,Senior,M,2026-02-02,2025-07-29,188,April Lyons,General,239.6478689497717,0
+718,1718,Mr. Brian Anderson,25,Young adult,F,2025-04-24,2024-04-14,375,Adrienne Roberts,Orthopedics,488.13569999999993,0
+719,1719,Mr. Paul Chavez,65,Middle age,M,2025-07-23,2025-02-04,169,Evan Marquez,Neurology,159.06,1
+720,1720,Mr. Phillip Baxter,80,Senior,M,2025-07-24,2025-01-16,189,Tricia Hunt,General,320.72,0
+721,1721,Mrs. Jennifer Ingram,41,Adult,M,2025-09-11,2024-11-30,285,Katrina Williams MD,General,473.2,0
+722,1722,Mrs. Katherine Huber PhD,74,Senior,M,2025-05-09,2024-11-12,178,Kathryn Young,Cardiology,488.54,0
+723,1723,Ms. Kristen Johnson,60,Middle age,M,2026-02-15,2024-04-14,672,Susan Griffin,Neurology,4.5557,1
+724,1724,Nancy Barry,71,Senior,F,2026-03-07,2025-03-30,342,Katherine Espinoza,Cardiology,4.9359,1
+725,1725,Natalie Marquez,29,Young adult,F,2025-07-18,2025-03-24,116,Jennifer Paul,Neurology,542.133,0
+726,1726,Natalie Miller,55,Middle age,F,2025-10-12,2024-10-28,349,Derrick Glass,General,65.9529,1
+727,1727,Nathan Murphy,52,Middle age,F,2025-11-24,2024-05-10,563,Kerry Rowe,Cardiology,1.649,0
+728,1728,Nathaniel White,71,Senior,M,2025-04-20,2024-07-31,263,Andrew Clark,Cardiology,95.4,0
+729,1729,Nathaniel Wood,66,Middle age,M,2025-04-29,2025-04-07,22,Alec Hill,General,4.132099999999999,1
+730,1730,Nicholas Kelly,53,Middle age,F,2026-03-23,2025-04-02,355,Paula Freeman,Cardiology,214.98587589285714,1
+731,1731,Nicholas Mcdaniel,48,Adult,F,2025-08-09,2025-04-26,105,Daniel Smith,Orthopedics,93.2841,0
+732,1732,Nicholas Vasquez,49,Adult,M,2025-10-30,2025-06-12,140,Jennifer Anderson,Neurology,4.1080000000000005,0
+733,1733,Nichole Anderson,87,Senior,X,2025-05-10,2025-02-06,93,Richard Vega,Cardiology,427.80150000000003,1
+734,1734,Nichole Phillips,56,Middle age,M,2025-09-17,2025-08-19,29,Michael Jackson,Cardiology,214.98587589285714,1
+735,1735,Nicole Adams,25,Young adult,F,2025-10-13,2025-03-13,214,Krystal Krueger,General,418.3100999999999,1
+736,1736,Nicole Evans,86,Senior,F,2025-08-13,2024-09-21,326,Ashley Cuevas,Cardiology,4.5941,1
+737,1737,Nicole Garcia,55,Middle age,F,2025-08-07,2024-04-06,488,Guy Vaughn,Cardiology,125.33,0
+738,1738,Nicole Green,55,Middle age,M,2025-07-18,2024-07-06,377,Charles Owens,General,3.6521,0
+739,1739,Nicole Hoffman,65,Middle age,F,2025-06-08,2025-01-14,145,Robert Mitchell,General,325.25,0
+740,1740,Nicole Shaw,20,Young adult,M,2025-05-07,2025-01-19,108,Mr. Brian Morton,Neurology,241.51399845559845,1
+741,1741,Nicole Shepard,28,Young adult,F,2026-03-23,2024-04-01,721,Mr. Ricky Le,Cardiology,91.0143,1
+742,1742,Nicole Warren,63,Middle age,F,2025-09-19,2025-02-07,224,Kimberly Beck,General,560.7225000000001,0
+743,1743,Nicole West,30,Young adult,F,2026-03-24,2024-03-26,728,Marissa Jacobs,General,255.57479999999998,0
+744,1744,Olivia Lambert,38,Adult,M,2025-12-15,2024-12-25,355,Melanie Blanchard,Cardiology,135.459,1
+745,1745,Oscar Hunt,29,Young adult,M,2025-06-11,2024-07-02,344,Michael Mason,Cardiology,490.10400000000004,1
+746,1746,Oscar Luna,72,Senior,F,2026-03-05,2025-03-26,344,John Stewart,General,126.56,1
+747,1747,Pamela Bradshaw,43,Adult,M,2025-04-02,2024-07-08,268,Donald Mitchell,General,3.5294,0
+748,1748,Pamela Brown,40,Adult,M,2026-02-25,2025-06-01,269,Melinda Duncan,Orthopedics,247.13,1
+749,1749,Pamela Dalton,18,,M,2025-10-06,2024-11-28,312,Christopher Jones,Orthopedics,4.6656,0
+750,1750,Pamela Davis,78,Senior,F,2025-12-19,2025-09-15,95,Antonio Galloway,Orthopedics,374.84459999999996,1
+751,1751,Pamela Davis,27,Young adult,F,2025-11-23,2024-04-12,590,Kevin Fields,General,66.74849999999999,1
+752,1752,Pamela Johnson,80,Senior,F,2025-07-01,2024-11-12,231,Crystal Garza,General,4.1742,1
+753,1753,Pamela Young,40,Adult,X,2025-05-30,2025-05-23,7,Yvonne Richardson,Orthopedics,136.23,1
+754,1754,Patricia Jackson,76,Senior,F,2026-02-28,2024-11-19,466,Jennifer Martin,Cardiology,3.7892,0
+755,1755,Patricia Johnson DDS,70,Middle age,M,2025-06-12,2024-11-27,197,Ana Hunt,Neurology,195.6015,1
+756,1756,Patricia King,68,Middle age,M,2025-10-28,2024-10-16,377,Jennifer Adams,General,468.06,1
+757,1757,Patricia Ramsey,85,Senior,F,2025-07-20,2024-11-27,235,Jennifer Tanner,General,539.3925,0
+758,1758,Patrick Ewing,52,Middle age,M,2025-11-16,2025-03-24,237,Alexander Jackson,Cardiology,303.6015,0
+759,1759,Patrick Perez,62,Middle age,M,2026-01-21,2024-12-13,404,Jesse Edwards,Neurology,290.14,1
+760,1760,Patrick Roach,88,Senior,F,2025-10-31,2025-06-23,130,Karen Duke,Cardiology,481.74749999999995,1
+761,1761,Patrick Saunders,18,,M,2025-09-11,2024-10-05,341,Casey Wagner,Orthopedics,2.0891,0
+762,1762,Paul Brock,76,Senior,F,2025-11-05,2025-05-23,166,Kayla Savage,Neurology,158.4765,1
+763,1763,Paul Hinton,49,Adult,F,2026-01-02,2025-11-29,34,Lindsey Fitzpatrick,Neurology,461.19,0
+764,1764,Paul Perez,28,Young adult,M,2025-08-24,2025-07-29,26,Nancy Young,Neurology,271.089,1
+765,1765,Penny Friedman,20,Young adult,M,2026-03-23,2025-06-13,283,Janice Taylor,Cardiology,295.434,1
+766,1766,Penny West,84,Senior,F,2025-10-24,2025-03-27,211,Heather Ortiz,Neurology,396.57,1
+767,1767,Perry Crawford,79,Senior,M,2025-11-05,2024-07-22,471,Marvin Hicks,Cardiology,119.6091,1
+768,1768,Peter Pierce,70,Middle age,M,2025-12-21,2025-08-07,136,Deborah Snyder,Neurology,3.8949000000000003,0
+769,1769,Peter Schaefer,84,Senior,F,2025-08-27,2024-06-02,451,Carlos Spence,Cardiology,1.9001,0
+770,1770,Phillip Blevins,64,Middle age,X,2026-03-12,2024-06-04,646,Darryl Garcia,General,124.85,1
+771,1771,Phillip Simpson,88,Senior,F,2025-06-27,2025-05-06,52,Darren Brooks,General,51.72,1
+772,1772,Rachel Baker,22,Young adult,F,2025-12-15,2024-05-18,576,Maria Gentry,Orthopedics,600.3045000000001,0
+773,1773,Rachel Carlson,27,Young adult,F,2026-01-05,2024-12-12,389,Paul Martinez,Neurology,379.39,1
+774,1774,Rachel Nguyen,63,Middle age,M,2025-12-13,2025-03-05,283,John Wolf,Neurology,4.1685,0
+775,1775,Rachel Porter,29,Young adult,M,2025-05-17,2024-10-06,223,Patrick Russell,Neurology,399.46139999999997,0
+776,1776,Rachel Russo,40,Adult,M,2025-08-27,2025-07-13,45,Christine Wilson,Orthopedics,3.6614999999999998,1
+777,1777,Rachel Simmons,65,Middle age,M,2025-08-12,2024-12-27,228,Robert Sanchez,Cardiology,188.72,1
+778,1778,Randy Austin,40,Adult,M,2026-02-12,2024-04-12,671,Dr. Deborah Fitzgerald,Neurology,364.33,0
+779,1779,Randy Wright,27,Young adult,F,2025-08-14,2024-12-02,255,Jennifer Banks,Orthopedics,318.7899,0
+780,1780,Ray Mcbride,87,Senior,F,2025-10-06,2024-12-02,308,Natalie Turner,General,135.41,0
+781,1781,Raymond Williams,57,Middle age,M,2025-04-23,2025-03-28,26,James Brooks,Neurology,3.7463,0
+782,1782,Rebecca Banks,23,Young adult,M,2025-05-26,2025-01-17,129,April Randall DDS,Neurology,0.5703,1
+783,1783,Rebecca Carey DDS,57,Middle age,M,2025-10-09,2025-03-17,206,David Carter,Neurology,169.09,0
+784,1784,Rebecca Franklin,43,Adult,F,2025-07-03,2024-05-16,413,Daniel Love,Neurology,1.877,1
+785,1785,Rebecca Gould,72,Senior,F,2025-04-04,2024-12-17,108,Xavier Richardson,General,535.95,0
+786,1786,Rebecca Hall,68,Middle age,M,2025-07-22,2025-06-28,24,Kevin Mendoza DVM,General,130.338,0
+787,1787,Rebecca Parrish,59,Middle age,F,2026-03-15,2025-01-06,433,Jordan Shelton,Orthopedics,163.52,0
+788,1788,Regina Giles,42,Adult,M,2025-10-24,2024-11-27,331,Kimberly Foster,Neurology,302.91299999999995,1
+789,1789,Regina Smith,87,Senior,X,2025-08-30,2024-12-15,258,Donna Orr,General,246.13,0
+790,1790,Regina Wilson,26,Young adult,M,2025-08-14,2024-06-03,437,Jenny Zuniga,Cardiology,1.8566,1
+791,1791,Regina Wilson,73,Senior,M,2025-12-31,2024-12-14,382,Heidi Hamilton,Neurology,371.41200000000003,1
+792,1792,Ricardo White,35,Young adult,M,2025-10-27,2025-07-11,108,Tanya Barker,Cardiology,3.5272000000000006,1
+793,1793,Richard Alexander,29,Young adult,F,2025-11-09,2025-07-16,116,Monica Torres,Cardiology,484.218,0
+794,1794,Richard Griffin,61,Middle age,M,2025-10-24,2025-08-21,64,Tina Gonzalez,Orthopedics,0.8187000000000001,1
+795,1795,Richard Hernandez,20,Young adult,M,2025-11-16,2025-09-18,59,Daniel Bradley,General,651.0375,0
+796,1796,Richard Jones,71,Senior,F,2025-11-23,2025-08-16,99,Stephen Cooper,General,328.67100000000005,0
+797,1797,Richard Richardson,80,Senior,F,2025-11-24,2024-12-29,330,Robin Hebert,Cardiology,2.2612,1
+798,1798,Richard Wagner,20,Young adult,M,2025-12-06,2025-11-25,11,Christopher Sherman,General,316.4499,1
+799,1799,Richard Woodard,38,Adult,F,2026-02-11,2025-09-28,136,Whitney Hoffman,Orthopedics,106.78589999999998,0
+800,1800,Rita Joyce,78,Senior,F,2025-05-21,2024-08-18,276,Diana Neal,Neurology,0.9245000000000001,1
+801,1801,Robert Brown,39,Adult,M,2025-06-28,2024-03-27,458,Jamie Sosa,General,228.3957,1
+802,1802,Robert Edwards,84,Senior,F,2025-10-09,2025-05-10,152,Ashley Gonzalez,Orthopedics,114.57450000000001,0
+803,1803,Robert Garcia,68,Middle age,F,2025-04-03,2024-08-06,240,Eric Lewis,Orthopedics,287.6328,0
+804,1804,Robert Guerrero,54,Middle age,M,2025-04-24,2024-10-07,199,Shane Brown,Cardiology,124.0785,1
+805,1805,Robert Hampton,90,Senior,M,2025-11-12,2025-09-04,69,Kevin Wilkinson,Neurology,436.29300000000006,0
+806,1806,Robert Humphrey,24,Young adult,X,2025-04-10,2025-03-22,19,Vanessa Brown,Orthopedics,281.71,0
+807,1807,Robert Jimenez,23,Young adult,M,2026-03-06,2024-07-20,594,Tony Randall,Cardiology,527.5062,1
+808,1808,Robert Lewis,66,Middle age,F,2025-10-23,2024-05-25,516,Samantha Cameron,Cardiology,4.9008,1
+809,1809,Robert Mason,78,Senior,M,2025-12-25,2024-12-13,377,Steven Mercer,Neurology,370.37,0
+810,1810,Robert Mclaughlin,21,Young adult,F,2025-06-22,2024-06-09,378,Shannon Mejia,Orthopedics,277.1685,0
+811,1811,Robert Montoya,79,Senior,M,2025-12-06,2024-09-09,453,Gregg Bennett,Neurology,241.51399845559845,0
+812,1812,Robert Myers DDS,72,Senior,F,2025-08-27,2024-12-07,263,Luis Smith,Neurology,4.9972,1
+813,1813,Robert Rodriguez,61,Middle age,F,2025-11-07,2025-09-21,47,Stephanie Douglas,General,2.6427,0
+814,1814,Robert Torres,61,Middle age,M,2025-10-20,2025-08-07,74,Kyle Phillips,Neurology,129.48,0
+815,1815,Robert Wade,87,Senior,M,2026-02-07,2024-07-11,576,Phillip Shelton,Orthopedics,249.74,1
+816,1816,Robert Williams,53,Middle age,M,2025-07-24,2025-02-03,171,Jessica Chandler,Neurology,397.089,1
+817,1817,Robin Donovan,69,Middle age,M,2025-03-27,2024-08-04,235,Brian Brown,General,163.58,0
+818,1818,Rodney Gonzalez,21,Young adult,F,2025-07-04,2025-02-07,147,Allison Ramos,Cardiology,168.33,0
+819,1819,Roger Hatfield,52,Middle age,M,2025-08-12,2025-01-22,202,Victoria Lopez,Orthopedics,229.5657,0
+820,1820,Roger Holmes,85,Senior,F,2026-02-04,2024-12-22,409,Paula Stone,Cardiology,2.0657,1
+821,1821,Ronald Gonzalez,30,Young adult,F,2026-01-25,2025-10-01,116,Crystal Mueller,General,2.2237,1
+822,1822,Ronald Taylor,43,Adult,M,2025-08-27,2024-05-11,473,Vanessa Jackson,Neurology,263.1,1
+823,1823,Ronnie Roach,46,Adult,F,2025-08-13,2025-05-25,80,Jason Houston,Cardiology,1.675,1
+824,1824,Russell Taylor,38,Adult,F,2025-11-29,2025-07-11,141,Breanna Gray,Orthopedics,3.3507,0
+825,1825,Ryan Kennedy,81,Senior,F,2026-02-07,2024-06-27,590,Scott Shannon,General,490.67,1
+826,1826,Ryan Miller,31,Young adult,M,2025-07-11,2025-03-19,114,Alexa Peterson,Orthopedics,2.5972000000000004,1
+827,1827,Ryan Rodriguez,53,Middle age,F,2025-05-29,2025-02-22,96,Eric Kennedy,Orthopedics,2.775,1
+828,1828,Ryan Tucker,89,Senior,M,2026-02-18,2024-11-03,472,Barbara Owens,Orthopedics,2.2461,0
+829,1829,Ryan Williams,88,Senior,F,2025-12-27,2024-12-25,367,Veronica Fry,General,398.47,1
+830,1830,Sabrina Wade,34,Young adult,F,2025-07-20,2025-05-14,67,Randy Vargas,General,2.0292,0
+831,1831,Samantha Garner,54,Middle age,F,2025-06-16,2025-04-24,53,Jacob Hobbs,General,325.91,0
+832,1832,Samantha Hoffman,37,Adult,M,2025-07-23,2025-03-14,131,Julie Smith,Cardiology,89.38,0
+833,1833,Samantha Mosley,30,Young adult,M,2025-12-05,2024-09-03,458,Thomas Thomas,Neurology,234.01169999999996,1
+834,1834,Samantha Wallace,76,Senior,M,2025-06-28,2024-12-22,188,Charles Jackson,Orthopedics,1.4583000000000002,1
+835,1835,Samuel Harrison,53,Middle age,X,2025-08-09,2024-07-06,399,Hunter Powell,Neurology,4.929200000000001,1
+836,1836,Samuel Moore,69,Middle age,M,2026-03-02,2024-11-21,466,Heather Everett,General,0.8309000000000001,1
+837,1837,Samuel Thomas,82,Senior,M,2025-06-16,2024-04-01,441,Donna Johnson,General,448.4025,1
+838,1838,Sandra Hill,65,Middle age,M,2025-08-10,2025-01-06,216,Julie May,Orthopedics,1.1320000000000001,1
+839,1839,Sandra Murphy,25,Young adult,M,2025-11-01,2024-07-29,460,Shelby Brown,Orthopedics,0.9312,0
+840,1840,Sandra Rojas,83,Senior,M,2025-06-16,2025-03-07,101,Stephanie Bryant,Cardiology,214.98587589285714,0
+841,1841,Sandra Russo,42,Adult,M,2026-01-25,2024-12-09,412,Michael Alexander,General,156.9,0
+842,1842,Sandra Terry,21,Young adult,F,2025-07-15,2024-07-23,357,Debra Buchanan,Neurology,521.1540000000001,0
+843,1843,Sandra Wilson,79,Senior,F,2025-12-23,2025-02-19,307,Cheryl Adams,General,376.73999999999995,1
+844,1844,Sandra Wood,81,Senior,M,2026-02-03,2025-09-29,127,Brian Armstrong,Neurology,70.1055,0
+845,1845,Sarah Davis,61,Middle age,M,2026-01-01,2025-08-14,140,Rebecca Thompson,General,4.026000000000001,0
+846,1846,Sarah Fuller,80,Senior,M,2026-03-06,2025-06-18,261,Cody Ortega,Cardiology,4.601100000000001,1
+847,1847,Sarah Hahn,60,Middle age,X,2026-03-19,2024-10-18,517,Theresa Lee,General,1.2303,1
+848,1848,Sarah Hernandez,25,Young adult,F,2025-09-03,2024-10-27,311,Jeremy Mclaughlin,Orthopedics,253.36,1
+849,1849,Sarah Rivas,85,Senior,F,2026-03-09,2025-03-18,356,Scott Vega,Neurology,613.2105,0
+850,1850,Sarah Taylor,43,Adult,F,2025-09-25,2024-10-30,330,Christopher Sexton,Cardiology,447.8877,1
+851,1851,Sarah Thompson,25,Young adult,F,2026-02-11,2025-06-20,236,Ruth Shaw,Neurology,174.4875,0
+852,1852,Sarah Wilson,79,Senior,M,2026-02-21,2024-08-08,562,Courtney Foley,Orthopedics,120.7,1
+853,1853,Savannah Butler,26,Young adult,F,2025-11-26,2025-04-17,223,James Nguyen,Neurology,340.47,0
+854,1854,Scott Bishop,76,Senior,F,2025-05-30,2024-07-27,307,Dylan Gibson,General,474.8445,0
+855,1855,Scott Graves,65,Middle age,M,2026-01-10,2026-01-06,4,Marie Clark,General,572.13,1
+856,1856,Scott Thompson,49,Adult,M,2026-02-14,2025-03-11,340,Erika Richards,Neurology,545.9102999999999,0
+857,1857,Scott Walker,62,Middle age,M,2026-03-22,2025-11-28,114,Brianna Hernandez,Neurology,433.63,1
+858,1858,Sean Bailey,85,Senior,F,2025-09-06,2025-02-27,191,Erika Turner,Neurology,431.89200000000005,1
+859,1859,Shane Fowler,57,Middle age,F,2025-10-30,2024-08-27,429,Kimberly Douglas,Neurology,154.80450000000002,1
+860,1860,Shannon Flores,19,Young adult,F,2025-09-07,2024-05-30,465,Scott Washington,Cardiology,335.853,1
+861,1861,Shannon Ramos,42,Adult,M,2025-11-04,2024-11-05,364,James Huber,Orthopedics,242.42107661290325,1
+862,1862,Shannon Vargas,57,Middle age,F,2025-05-31,2025-02-14,106,Brian Caldwell,Orthopedics,341.11,0
+863,1863,Sharon Lopez,79,Senior,M,2025-09-09,2025-02-02,219,Yolanda Richardson,Neurology,487.57,0
+864,1864,Shawn Castillo,68,Middle age,M,2025-05-02,2025-02-15,76,Jennifer Carroll,Orthopedics,458.4195,0
+865,1865,Shawn Cordova,67,Middle age,M,2025-11-27,2024-07-30,485,Wendy Mcguire,Neurology,2.8522000000000003,0
+866,1866,Shawn Juarez,64,Middle age,M,2025-08-02,2025-05-31,63,Patrick Morrison,Neurology,129.636,1
+867,1867,Shawn Mendoza,36,Adult,M,2026-03-25,2024-05-03,691,Erin Walton,Cardiology,91.24829999999999,0
+868,1868,Shawn Moon,52,Middle age,M,2026-03-17,2025-10-20,148,Sheila Williams,Neurology,182.1573,1
+869,1869,Shawn Moore,55,Middle age,F,2025-11-15,2024-07-06,497,Rebecca Ward,General,3.1626,0
+870,1870,Shawn Tucker,84,Senior,F,2026-02-15,2025-11-21,86,Melissa Schmidt,Orthopedics,302.3046,1
+871,1871,Sheila Barrett,25,Young adult,M,2025-11-19,2025-11-15,4,John Wallace,Cardiology,1.7053,0
+872,1872,Sheila Thomas,58,Middle age,M,2025-09-08,2025-02-24,196,Catherine Gamble,Cardiology,87.46650000000001,0
+873,1873,Shelly Chavez,34,Young adult,F,2025-10-10,2025-05-02,161,Megan Morales,Neurology,431.45,0
+874,1874,Sheri Kline,55,Middle age,F,2026-01-02,2024-04-11,631,Jennifer Russell,General,509.139,1
+875,1875,Sherri Barry,48,Adult,M,2025-08-29,2024-04-15,501,Janet Schultz,Neurology,148.122,0
+876,1876,Sherri Guzman,37,Adult,M,2025-09-14,2024-05-20,482,Carlos Morton,Orthopedics,637.9695,1
+877,1877,Sherry Wilson,21,Young adult,F,2025-12-07,2025-02-28,282,Pamela Wiley,Orthopedics,1.2991,1
+878,1878,Sheryl Lopez,27,Young adult,M,2025-08-26,2024-09-10,350,Barbara Alvarado,Neurology,241.51399845559845,1
+879,1879,Sonia Moss,52,Middle age,F,2025-11-06,2024-09-21,411,Joy Armstrong,Neurology,285.58529999999996,1
+880,1880,Sonya Wheeler,60,Middle age,F,2025-09-07,2024-04-13,512,Adam Carlson,Orthopedics,4.3305,1
+881,1881,Stacy Clements,75,Senior,F,2025-06-03,2024-11-09,206,Cynthia Dunn,Cardiology,0.9619,1
+882,1882,Stacy Cunningham,32,Young adult,M,2026-03-09,2024-11-14,480,Laura Klein,General,558.2655,0
+883,1883,Stacy Gardner,53,Middle age,X,2026-01-18,2025-03-11,313,Michael Campbell,Neurology,100.953,1
+884,1884,Stephanie Bryant,32,Young adult,X,2026-01-02,2025-02-18,318,Sara Booth,Orthopedics,611.1315000000001,1
+885,1885,Stephanie Caldwell MD,86,Senior,F,2025-07-04,2025-01-19,166,Darrell Mendez,Orthopedics,74.84,1
+886,1886,Stephanie Carr,70,Middle age,F,2025-08-26,2024-12-19,250,David Colon,Orthopedics,212.66,0
+887,1887,Stephanie Cisneros,50,Adult,F,2025-12-03,2024-08-02,488,Rachel Richards,Orthopedics,132.489,1
+888,1888,Stephanie Moss,24,Young adult,F,2026-03-04,2025-04-02,336,Jason Bray,General,61.2144,1
+889,1889,Stephen Butler,81,Senior,F,2025-05-22,2024-04-15,402,Shannon Martinez,Neurology,283.0545,1
+890,1890,Stephen Cox,56,Middle age,M,2025-09-27,2025-02-05,234,Joseph King,Cardiology,133.8795,0
+891,1891,Stephen Hicks,88,Senior,X,2025-10-19,2025-06-05,136,Christopher Underwood,Orthopedics,359.8155,1
+892,1892,Steve Ramirez,30,Young adult,F,2025-07-19,2025-05-12,68,Michelle Jones,Orthopedics,451.11,0
+893,1893,Steven Baldwin,87,Senior,X,2025-06-05,2024-04-14,417,Lori Reid,Neurology,4.9677999999999995,1
+894,1894,Steven Giles,58,Middle age,F,2025-12-01,2024-12-29,337,Kevin Vaughan,General,420.0066,0
+895,1895,Steven Gonzalez,37,Adult,M,2026-02-04,2025-11-10,86,Jonathan Daniels,Orthopedics,349.9065,1
+896,1896,Steven Henderson,53,Middle age,M,2026-02-15,2025-04-27,294,Nicole Martinez,Orthopedics,1.6340000000000001,1
+897,1897,Steven Miller,20,Young adult,M,2025-05-01,2025-04-28,3,Bob Shaw,Orthopedics,276.507,0
+898,1898,Steven Morgan,58,Middle age,M,2025-05-24,2024-09-09,257,Donna Adkins,Orthopedics,402.8670000000001,1
+899,1899,Steven Phelps,19,Young adult,F,2025-05-13,2024-07-18,299,Darren Williams,Cardiology,3.505,1
+900,1900,Steven Richards,26,Young adult,M,2026-03-23,2025-01-11,436,Zachary Hamilton,Orthopedics,277.407,0
+901,1901,Steven Wallace,52,Middle age,M,2025-09-25,2025-01-11,257,Katherine Martin,Cardiology,581.0454,0
+902,1902,Steven Wilson,48,Adult,F,2025-04-08,2025-02-03,64,Hannah Herrera,Cardiology,77.48,0
+903,1903,Summer Bishop,37,Adult,M,2025-10-21,2025-08-07,75,Cynthia Green,Cardiology,214.98587589285714,1
+904,1904,Susan Bautista,54,Middle age,F,2026-02-13,2024-11-06,464,Michael Schmidt,Orthopedics,381.2562,0
+905,1905,Susan Delgado,39,Adult,M,2025-11-18,2025-11-04,14,Paula Mann,Neurology,356.6862,0
+906,1906,Susan Winters,45,Adult,F,2025-07-25,2024-08-31,328,Christopher Simpson,Orthopedics,353.09,0
+907,1907,Suzanne Jenkins,44,Adult,M,2025-10-13,2024-06-16,484,Maureen Jacobson,Orthopedics,291.2949,1
+908,1908,Tamara Ramirez MD,79,Senior,F,2025-12-23,2025-01-12,345,Emily Mcintosh,Neurology,171.27450000000002,1
+909,1909,Tammy Nelson,20,Young adult,M,2025-08-21,2024-04-15,493,Angel Aguilar,Cardiology,214.98587589285714,0
+910,1910,Tammy Thomas,74,Senior,F,2025-04-02,2025-01-19,73,Kurt Cain,Orthopedics,147.177,0
+911,1911,Tammy Williams,76,Senior,F,2026-02-26,2024-12-03,450,Christopher Graham,Cardiology,574.83,1
+912,1912,Tammy Yates,35,Young adult,F,2025-10-29,2025-09-06,53,Nancy Luna,Cardiology,68.50349999999999,0
+913,1913,Tara Garrison,41,Adult,M,2026-02-03,2025-10-04,122,Stacy Hartman,Cardiology,611.6715,1
+914,1914,Taylor Farley,25,Young adult,F,2025-10-01,2024-09-01,395,Christy Lewis,Cardiology,184.11,1
+915,1915,Taylor Patterson,58,Middle age,F,2026-03-25,2025-10-24,152,Ellen Miller,Neurology,199.03,0
+916,1916,Teresa Kim,71,Senior,M,2025-12-26,2024-04-27,608,Gregory Brown,Neurology,4.6104,0
+917,1917,Teresa Peters,78,Senior,M,2026-02-11,2024-11-14,454,Tracey Johnson,Neurology,547.5717,0
+918,1918,Terrence Long,46,Adult,M,2026-02-01,2025-06-27,219,Natalie Rodriguez,Cardiology,246.65850000000003,1
+919,1919,Terry Dennis,28,Young adult,M,2025-07-14,2024-08-16,332,Kelsey Scott,Neurology,4.0378,1
+920,1920,Terry Miller,24,Young adult,F,2025-04-22,2025-03-24,29,John Lyons,General,239.6478689497717,1
+921,1921,Theresa Sanchez,56,Middle age,F,2026-02-03,2024-08-16,536,Amber Sullivan,General,335.12309999999997,1
+922,1922,Theresa Young,69,Middle age,M,2025-10-15,2025-06-11,126,Brenda Booth,General,206.145,0
+923,1923,Thomas Banks,80,Senior,M,2025-12-09,2025-10-21,49,George Stevens,Cardiology,4.5166,0
+924,1924,Thomas Crawford,63,Middle age,F,2025-05-13,2024-04-22,386,Ashley Shaw,General,347.3145,0
+925,1925,Thomas Fleming,18,,M,2025-06-04,2024-12-14,172,Kimberly Mcdonald,Neurology,85.9365,0
+926,1926,Thomas Landry,60,Middle age,M,2025-09-03,2025-08-01,33,Brandon Moore,General,239.6478689497717,0
+927,1927,Thomas Nash,75,Senior,F,2025-06-05,2025-01-20,136,Justin Flores,Cardiology,1.806,1
+928,1928,Thomas Roman,64,Middle age,F,2025-09-14,2024-07-15,426,Robert Bass,General,2.0043,1
+929,1929,Thomas Smith,82,Senior,M,2025-11-23,2024-12-07,351,Kenneth Turner,Cardiology,3.9287,1
+930,1930,Thomas Smith,54,Middle age,F,2025-09-11,2025-09-05,6,Brandon Garcia,Cardiology,108.91,0
+931,1931,Tiffany Burke,48,Adult,F,2025-07-09,2025-04-03,97,Charles Lopez,Neurology,274.81,1
+932,1932,Tiffany Cooper,58,Middle age,M,2025-07-05,2025-05-16,50,Katrina Jones,General,93.36599999999999,1
+933,1933,Tiffany Miller,85,Senior,M,2025-03-29,2025-03-07,22,Melissa Bradley,Cardiology,176.6934,0
+934,1934,Tiffany Stone,27,Young adult,F,2025-08-18,2025-05-23,87,Henry Kelley,Neurology,211.48919999999998,0
+935,1935,Tim Flowers,31,Young adult,M,2025-09-29,2024-11-04,329,Kimberly Henson,Neurology,1.3981000000000001,1
+936,1936,Timothy Fowler,78,Senior,F,2025-07-15,2025-07-04,11,Donna Stephens,General,276.4359,0
+937,1937,Timothy Matthews,56,Middle age,M,2025-10-30,2024-05-18,530,Brandy Sutton,Orthopedics,568.035,0
+938,1938,Timothy Osborne,83,Senior,F,2025-12-18,2025-04-21,241,Christopher Ferguson,Neurology,290.87100000000004,1
+939,1939,Timothy Ramirez,56,Middle age,F,2025-11-18,2025-02-07,284,Tiffany Shepherd,Cardiology,4.1244,0
+940,1940,Timothy Walter,28,Young adult,F,2025-07-21,2025-07-14,7,Miss Julie Rodriguez,Neurology,151.848,1
+941,1941,Tina Cook,25,Young adult,F,2025-12-05,2024-09-28,433,Paul Allen,Neurology,363.8655,1
+942,1942,Tina Gallagher,45,Adult,M,2026-03-16,2025-12-12,94,Tiffany Gates MD,Neurology,579.1149,1
+943,1943,Tina Lewis,40,Adult,F,2026-02-10,2025-12-18,54,Derrick Salazar,Neurology,80.5545,1
+944,1944,Todd Wilson,56,Middle age,M,2025-05-15,2024-05-05,375,Rebecca Harrington,Orthopedics,2.5864,1
+945,1945,Toni Morris DDS,30,Young adult,F,2025-12-01,2024-07-16,503,Robin Medina,Orthopedics,293.3073,0
+946,1946,Tony Gibbs,39,Adult,F,2025-11-01,2024-10-13,384,Brandon Morris,General,414.6012,0
+947,1947,Tracey Beck,81,Senior,M,2025-05-27,2024-09-20,249,Logan Cooper,Cardiology,184.28,1
+948,1948,Traci Chandler,18,,F,2026-02-04,2024-12-10,421,Tyler Carter,General,501.6375,0
+949,1949,Tracie Jefferson,74,Senior,F,2025-07-24,2025-04-24,91,Margaret Robinson,General,153.53,1
+950,1950,Tracy Mcdonald,34,Young adult,F,2025-07-31,2024-04-09,478,Daniel Gutierrez,Cardiology,2.9223000000000003,1
+951,1951,Tracy Perez,74,Senior,M,2026-03-19,2025-11-26,113,Lauren Rosario,Cardiology,546.2379,0
+952,1952,Tracy Smith,30,Young adult,F,2025-05-24,2024-07-05,323,Amber Baxter,Neurology,1.3949,1
+953,1953,Travis Allen MD,44,Adult,M,2025-06-22,2024-06-18,369,Karen White,Orthopedics,184.4622,1
+954,1954,Travis Rodriguez,85,Senior,M,2025-10-20,2025-08-10,71,Richard Wagner,Neurology,499.1688,1
+955,1955,Trevor Anderson,32,Young adult,F,2025-07-06,2025-04-10,87,Kenneth Johnson,Neurology,182.8944,1
+956,1956,Trevor Taylor,61,Middle age,F,2025-06-19,2024-09-01,291,William Schneider,Neurology,318.249,0
+957,1957,Tristan Booth,22,Young adult,X,2025-07-10,2024-07-16,359,Alicia Hall,Neurology,477.72,0
+958,1958,Troy Marshall,67,Middle age,F,2025-04-17,2024-09-15,214,Benjamin Robinson,Orthopedics,478.18,0
+959,1959,Troy Richards,80,Senior,F,2025-05-16,2024-11-13,184,Thomas Baker,Neurology,411.777,1
+960,1960,Troy Taylor,52,Middle age,X,2025-12-28,2025-02-24,307,Jason Gill,General,627.3315,1
+961,1961,Troy Torres,80,Senior,F,2025-05-04,2024-09-20,226,Matthew Carney,Cardiology,124.09,0
+962,1962,Troy White,80,Senior,M,2026-01-07,2024-05-26,591,Cindy Cox,Neurology,87.2,0
+963,1963,Tyler Smith,42,Adult,M,2025-11-05,2024-08-03,459,Melinda Smith,General,239.6478689497717,1
+964,1964,Tyler Trujillo,72,Senior,M,2025-12-11,2025-01-24,321,Andrea Walsh,Cardiology,225.5445,0
+965,1965,Valerie Vaughn,35,Young adult,M,2025-11-11,2024-07-18,481,Felicia Warner,Orthopedics,242.42107661290325,0
+966,1966,Vanessa Allen,52,Middle age,M,2026-01-09,2025-08-06,156,Amy Chavez,Neurology,2.4394,1
+967,1967,Vanessa Graves,58,Middle age,F,2025-08-07,2025-01-02,217,Leslie Smith,Cardiology,4.7433,1
+968,1968,Vanessa Jones,63,Middle age,F,2025-11-09,2025-09-10,60,Courtney Knight,Orthopedics,169.25,1
+969,1969,Vanessa Perkins,22,Young adult,F,2026-03-16,2024-11-26,475,Megan Smith,Orthopedics,618.219,1
+970,1970,Vanessa Wright,28,Young adult,M,2026-01-07,2025-08-23,137,Virginia Sharp,Cardiology,3.4467000000000003,1
+971,1971,Veronica Shaw,86,Senior,X,2025-09-22,2024-07-15,434,Michael Franco,Orthopedics,235.46699999999998,1
+972,1972,Victor Anderson MD,28,Young adult,M,2025-09-10,2025-04-21,142,Dr. William Terry,Cardiology,483.07050000000004,1
+973,1973,Victor Everett,90,Senior,F,2025-11-05,2024-06-06,517,Jacob Diaz,General,409.6404,0
+974,1974,Victor Simmons,80,Senior,M,2026-02-10,2025-01-17,389,Christopher Nelson,Cardiology,567.8127,0
+975,1975,Victoria Gilbert,64,Middle age,F,2025-04-08,2024-07-23,259,April Spears,Cardiology,390.1,0
+976,1976,Victoria Gomez,72,Senior,F,2025-06-26,2025-05-19,38,Nicole Chandler,General,2.0535,1
+977,1977,Victoria Perry,39,Adult,M,2026-03-26,2025-08-24,214,Heather Garcia,Neurology,523.2591,0
+978,1978,Victoria Young,47,Adult,F,2025-08-06,2025-07-21,16,Lauren Whitaker,Neurology,174.04,1
+979,1979,Vincent Brown,32,Young adult,F,2025-05-11,2024-07-06,309,Brianna Garcia,Neurology,2.3622,0
+980,1980,Virginia Flores,70,Middle age,F,2025-12-26,2025-08-13,135,Leonard Macias,General,364.83,1
+981,1981,Walter Webb,33,Young adult,X,2025-09-26,2024-09-03,388,Dale Herrera,Neurology,241.51399845559845,1
+982,1982,Wendy Andrews,46,Adult,M,2025-06-18,2024-10-19,242,Kimberly Wilcox,Orthopedics,3.5307,1
+983,1983,Wendy Parks,40,Adult,M,2026-02-14,2025-09-09,158,Melissa Williams,Neurology,241.51399845559845,1
+984,1984,Whitney Bradley,31,Young adult,X,2025-05-27,2024-12-20,158,Ryan White,General,130.70069999999998,0
+985,1985,William Bentley,42,Adult,M,2025-10-21,2025-03-31,204,Jacob Mckay,Neurology,263.3,1
+986,1986,William Conley,28,Young adult,F,2025-09-27,2025-06-19,100,Thomas Wallace,General,0.8829000000000001,0
+987,1987,William Hatfield,32,Young adult,M,2026-02-26,2025-04-14,318,Kristen Lopez,Neurology,112.79,0
+988,1988,William Lewis,32,Young adult,M,2025-04-04,2024-05-16,323,Wesley Johnson,Orthopedics,3.6131,1
+989,1989,William Roberts Jr.,21,Young adult,F,2025-08-17,2024-07-02,411,Savannah Beltran,Orthopedics,315.17,0
+990,1990,William Sparks,48,Adult,M,2025-03-26,2024-12-03,113,Jeffrey Ashley Jr.,Cardiology,1.9318000000000002,0
+991,1991,William Villarreal,80,Senior,M,2025-06-15,2024-08-17,302,Ronald Davis,Orthopedics,269.35,1
+992,1992,William Wilson,52,Middle age,M,2026-02-16,2025-03-14,339,Jacob Bernard,General,405.28799999999995,0
+993,1993,Yolanda Thomas,61,Middle age,F,2025-12-15,2024-07-10,523,Keith Lee,Neurology,241.51399845559845,1
+994,1994,Zachary Allen,21,Young adult,F,2026-02-24,2025-06-04,265,Justin Smith,Neurology,241.51399845559845,1
+995,1995,Zachary Cross,61,Middle age,M,2025-07-31,2025-04-23,99,Toni Rodriguez,Neurology,429.084,0
+996,1996,Zachary Frazier,88,Senior,F,2026-02-14,2024-12-27,414,Tamara Thompson,Orthopedics,481.92,0
+997,1997,Zachary Jones,53,Middle age,F,2025-10-03,2025-07-01,94,Alexander Lee,Orthopedics,411.0885,0
+998,1998,Zachary Lewis,46,Adult,F,2026-02-07,2024-12-19,415,Gary Washington,Neurology,351.94,1
+999,1999,Zachary Williams,33,Young adult,M,2025-09-13,2024-07-02,438,Selena Brown,Orthopedics,619.4205000000001,1
